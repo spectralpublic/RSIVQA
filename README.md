@@ -6,9 +6,9 @@ The paper is currently under review of IEEE Transactions on Geoscience and Remot
 
 Overview
 --------------------------------------
-RSIVQA data set contain is generated from existing remote sensing image classification and object detection data sets with a specially designed generation method. Details of the generation method can be found in the paper.
+RSIVQA data set is derived from existing remote sensing image classification and object detection data sets with a specially designed generation method. Details of the generation method can be found in the paper.
 
-Currently, RSIVQA contains images from three RSI classification data sets (UCM, Sydney and AID) and two RSI object detection data sets (HRRSD and DOTA).
+Currently, images in RSIVQA come from three RSI classification data sets (UCM, Sydney and AID) and two RSI object detection data sets (HRRSD and DOTA). Questions and answers are generated based on the images to form image-question-answer triplets. Questions, answers and their correspondence can be found in txt files in this repository.
 
 UCM:
 

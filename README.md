@@ -1,14 +1,14 @@
 # RSIVQA (Remote Sensing Image Visual Question Answering)
 --------------------------------------
-RSIVQA is a remote sensing visual question answering data set proposed in the paper "Mutual Attention Inception Network for Remote Sensing Visual Question Answering".
+RSIVQA is a remote sensing visual question answering dataset proposed in the paper "Mutual Attention Inception Network for Remote Sensing Visual Question Answering".
 
 The paper is currently under review of IEEE Transactions on Geoscience and Remote Sensing.
 
 Overview
 --------------------------------------
-RSIVQA data set is derived from existing remote sensing image classification and object detection data sets with a specially designed generation method. Details of the generation method can be found in the paper.
+RSIVQA dataset is derived from existing remote sensing image classification and object detection datasets with a specially designed generation method. Details of the generation method can be found in the paper.
 
-Currently, images in RSIVQA come from three RSI classification data sets (UCM, Sydney and AID) and two RSI object detection data sets (HRRSD and DOTA). Questions and answers are generated based on the images to form image-question-answer triplets. Questions, answers and their correspondence can be found in txt files in this repository.
+Currently, images in RSIVQA come from three RSI classification datasets (UCM, Sydney and AID) and two RSI object detection datasets (HRRSD and DOTA). Questions and answers are generated based on the images to form image-question-answer triplets. Questions, answers and their correspondence can be found in txt files in this repository. Images of the datasets can be downloaded by the origin link of each dataset and they are shown below.
 
 UCM:
 

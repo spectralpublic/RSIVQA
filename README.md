@@ -9,7 +9,7 @@ RSIVQA data set contain is generated from existing remote sensing image classifi
 
 Currently, RSIVQA contains images from three RSI classification data sets (UCM, Sydney and AID) and two RSI object detection data sets (HRRSD and DOTA).
 
-UCM: 
+UCM: \n
 [1] Y. Yang and S. Newsam, “Bag-of-visual-words and spatial extensions for land-use classification,” in Proceedings of the International Conference on Advances in Geographic Information Systems, 2010, pp. 270–279.
 http://weegee.vision.ucmerced.edu/datasets/landuse.html
 Sydney:

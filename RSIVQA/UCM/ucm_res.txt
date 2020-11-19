@@ -1,0 +1,2795 @@
+1.tif:What is the theme of this picture?farmland
+1.tif:Does this picture contain an airplane?no
+1.tif:Does this picture contain trees?yes
+1.tif:How many trees in the picture?one
+1.tif:What is the location of the trees in this picture?top left corner
+10.tif:What is the theme of this picture?farmland
+10.tif:Does this picture contain an airplane?no
+10.tif:Does this picture contain trees?no
+10.tif:How many  in the picture?zero
+10.tif:What is the location of the  in this picture?i cannot see it
+100.tif:What is the theme of this picture?farmland
+100.tif:Does this picture contain an airplane?no
+100.tif:Does this picture contain trees?no
+100.tif:How many plants in the picture?i don't know
+100.tif:What is the location of the  in this picture?i cannot see it
+1000.tif:What is the theme of this picture?grass
+1000.tif:Does this picture contain an airplane?no
+1000.tif:Does this picture contain trees?yes
+1000.tif:How many trees in the picture?nine
+1000.tif:What is the location of the trees in this picture?central section
+1001.tif:What is the theme of this picture?harbor
+1001.tif:Does this picture contain an airplane?no
+1001.tif:Does this picture contain trees?no
+1001.tif:How many boats in the picture?fourteen
+1001.tif:What is the location of the boats in this picture?diagonal
+1002.tif:What is the theme of this picture?harbor
+1002.tif:Does this picture contain an airplane?no
+1002.tif:Does this picture contain trees?no
+1002.tif:How many  in the picture?zero
+1002.tif:What is the location of the boat in this picture?everywhere
+1003.tif:What is the theme of this picture?harbor
+1003.tif:Does this picture contain an airplane?no
+1003.tif:Does this picture contain trees?no
+1003.tif:How many boats in the picture?about twenty-eight
+1003.tif:What is the location of the boats in this picture?diagonal
+1004.tif:What is the theme of this picture?harbor
+1004.tif:Does this picture contain an airplane?no
+1004.tif:Does this picture contain trees?no
+1004.tif:How many boats in the picture?about twenty-eight
+1004.tif:What is the location of the boats in this picture?diagonal
+1005.tif:What is the theme of this picture?harbor
+1005.tif:Does this picture contain an airplane?no
+1005.tif:Does this picture contain trees?no
+1005.tif:How many  in the picture?zero
+1005.tif:What is the location of the  in this picture?i cannot see it
+1006.tif:What is the theme of this picture?harbor
+1006.tif:Does this picture contain an airplane?no
+1006.tif:Does this picture contain trees?no
+1006.tif:How many boats in the picture?about fifty
+1006.tif:What is the location of the boats in this picture?middle and right
+1007.tif:What is the theme of this picture?harbor
+1007.tif:Does this picture contain an airplane?no
+1007.tif:Does this picture contain trees?no
+1007.tif:How many  in the picture?zero
+1007.tif:What is the location of the  in this picture?i cannot see it
+1008.tif:What is the theme of this picture?harbor
+1008.tif:Does this picture contain an airplane?no
+1008.tif:Does this picture contain trees?no
+1008.tif:How many boats in the picture?about fifty
+1008.tif:What is the location of the boats in this picture?left and middle
+1009.tif:What is the theme of this picture?harbor
+1009.tif:Does this picture contain an airplane?no
+1009.tif:Does this picture contain trees?no
+1009.tif:How many  in the picture?zero
+1009.tif:What is the location of the  in this picture?i cannot see it
+101.tif:What is the theme of this picture?airport
+101.tif:Does this picture contain an airplane?yes
+101.tif:Does this picture contain trees?no
+101.tif:How many  in the picture?four
+101.tif:What is the location of the cars in this picture?top
+1010.tif:What is the theme of this picture?harbor
+1010.tif:Does this picture contain an airplane?no
+1010.tif:Does this picture contain trees?no
+1010.tif:How many boats in the picture?about forty
+1010.tif:What is the location of the large boats in this picture?right
+1011.tif:What is the theme of this picture?harbor
+1011.tif:Does this picture contain an airplane?no
+1011.tif:Does this picture contain trees?no
+1011.tif:How many boats in the picture?about thirty
+1011.tif:What is the location of the boats in this picture?middle and lower right
+1012.tif:What is the theme of this picture?harbor
+1012.tif:Does this picture contain an airplane?no
+1012.tif:Does this picture contain trees?no
+1012.tif:How many boats in the picture?about seventeen
+1012.tif:What is the location of the boats in this picture?left
+1013.tif:What is the theme of this picture?harbor
+1013.tif:Does this picture contain an airplane?no
+1013.tif:Does this picture contain trees?no
+1013.tif:How many  in the picture?zero
+1013.tif:What is the location of the  in this picture?i cannot see it
+1014.tif:What is the theme of this picture?harbor
+1014.tif:Does this picture contain an airplane?no
+1014.tif:Does this picture contain trees?no
+1014.tif:How many boats in the picture?about eighty
+1014.tif:What is the location of the boats in this picture?left center and right
+1015.tif:What is the theme of this picture?harbor
+1015.tif:Does this picture contain an airplane?no
+1015.tif:Does this picture contain trees?no
+1015.tif:How many  in the picture?zero
+1015.tif:What is the location of the  in this picture?i cannot see it
+1016.tif:What is the theme of this picture?harbor
+1016.tif:Does this picture contain an airplane?no
+1016.tif:Does this picture contain trees?no
+1016.tif:How many boats in the picture?thirty-seven
+1016.tif:What is the location of the boats in this picture?left and right
+1017.tif:What is the theme of this picture?harbor
+1017.tif:Does this picture contain an airplane?no
+1017.tif:Does this picture contain trees?no
+1017.tif:How many  in the picture?zero
+1017.tif:What is the location of the  in this picture?i cannot see it
+1018.tif:What is the theme of this picture?harbor
+1018.tif:Does this picture contain an airplane?no
+1018.tif:Does this picture contain trees?no
+1018.tif:How many trees in the picture?zero
+1018.tif:What is the location of the boats in this picture?left and right
+1019.tif:What is the theme of this picture?harbor
+1019.tif:Does this picture contain an airplane?no
+1019.tif:Does this picture contain trees?no
+1019.tif:How many boats in the picture?thirty
+1019.tif:What is the location of the boats in this picture?left and right
+102.tif:What is the theme of this picture?airport
+102.tif:Does this picture contain an airplane?yes
+102.tif:Does this picture contain trees?no
+102.tif:How many  in the picture?one
+102.tif:What is the location of the  in this picture?center
+1020.tif:What is the theme of this picture?harbor
+1020.tif:Does this picture contain an airplane?no
+1020.tif:Does this picture contain trees?no
+1020.tif:How many boats in the picture?twenty-five
+1020.tif:What is the location of the boats in this picture?center
+1021.tif:What is the theme of this picture?harbor
+1021.tif:Does this picture contain an airplane?no
+1021.tif:Does this picture contain trees?no
+1021.tif:How many  in the picture?zero
+1021.tif:What is the location of the  in this picture?i cannot see it
+1022.tif:What is the theme of this picture?harbor
+1022.tif:Does this picture contain an airplane?no
+1022.tif:Does this picture contain trees?no
+1022.tif:How many boats in the picture?thirty-eight
+1022.tif:What is the location of the boats in this picture?left and right
+1023.tif:What is the theme of this picture?harbor
+1023.tif:Does this picture contain an airplane?no
+1023.tif:Does this picture contain trees?no
+1023.tif:How many  in the picture?zero
+1023.tif:What is the location of the  in this picture?center and right
+1024.tif:What is the theme of this picture?harbor
+1024.tif:Does this picture contain an airplane?no
+1024.tif:Does this picture contain trees?no
+1024.tif:How many boats in the picture?twenty
+1024.tif:What is the location of the boats in this picture?center
+1025.tif:What is the theme of this picture?harbor
+1025.tif:Does this picture contain an airplane?no
+1025.tif:Does this picture contain trees?no
+1025.tif:How many  in the picture?zero
+1025.tif:What is the location of the  in this picture?i cannot see it
+1026.tif:What is the theme of this picture?harbor
+1026.tif:Does this picture contain an airplane?no
+1026.tif:Does this picture contain trees?no
+1026.tif:How many boats in the picture?twenty-two
+1026.tif:What is the location of the boats in this picture?center
+1027.tif:What is the theme of this picture?harbor
+1027.tif:Does this picture contain an airplane?no
+1027.tif:Does this picture contain trees?no
+1027.tif:How many  in the picture?zero
+1027.tif:What is the location of the  in this picture?i cannot see it
+1028.tif:What is the theme of this picture?harbor
+1028.tif:Does this picture contain an airplane?no
+1028.tif:Does this picture contain trees?no
+1028.tif:How many boats in the picture?forty-two
+1028.tif:What is the location of the boats in this picture?diagonal
+1029.tif:What is the theme of this picture?harbor
+1029.tif:Does this picture contain an airplane?no
+1029.tif:Does this picture contain trees?no
+1029.tif:How many  in the picture?zero
+1029.tif:What is the location of the  in this picture?i cannot see it
+103.tif:What is the theme of this picture?airport
+103.tif:Does this picture contain an airplane?yes
+103.tif:Does this picture contain trees?no
+103.tif:How many  in the picture?one
+103.tif:What is the location of the  in this picture?center
+1030.tif:What is the theme of this picture?harbor
+1030.tif:Does this picture contain an airplane?no
+1030.tif:Does this picture contain trees?no
+1030.tif:How many  in the picture?zero
+1030.tif:What is the location of the  in this picture?i cannot see it
+1031.tif:What is the theme of this picture?harbor
+1031.tif:Does this picture contain an airplane?no
+1031.tif:Does this picture contain trees?no
+1031.tif:How many boats in the picture?twenty
+1031.tif:What is the location of the boats in this picture?upper left and lower right
+1032.tif:What is the theme of this picture?harbor
+1032.tif:Does this picture contain an airplane?no
+1032.tif:Does this picture contain trees?no
+1032.tif:How many  in the picture?zero
+1032.tif:What is the location of the  in this picture?i cannot see it
+1033.tif:What is the theme of this picture?harbor
+1033.tif:Does this picture contain an airplane?no
+1033.tif:Does this picture contain trees?no
+1033.tif:How many boats in the picture?eighteen
+1033.tif:What is the location of the boats in this picture?lower left and upper right
+1034.tif:What is the theme of this picture?harbor
+1034.tif:Does this picture contain an airplane?no
+1034.tif:Does this picture contain trees?no
+1034.tif:How many boats in the picture?eighteen
+1034.tif:What is the location of the  in this picture?i cannot see it
+1035.tif:What is the theme of this picture?harbor
+1035.tif:Does this picture contain an airplane?no
+1035.tif:Does this picture contain trees?no
+1035.tif:How many boats in the picture?twenty-eight
+1035.tif:What is the location of the boats in this picture?upper left and lower right
+1036.tif:What is the theme of this picture?harbor
+1036.tif:Does this picture contain an airplane?no
+1036.tif:Does this picture contain trees?no
+1036.tif:How many  in the picture?zero
+1036.tif:What is the location of the  in this picture?i cannot see it
+1037.tif:What is the theme of this picture?harbor
+1037.tif:Does this picture contain an airplane?no
+1037.tif:Does this picture contain trees?no
+1037.tif:How many boats in the picture?twenty-eight
+1037.tif:What is the location of the  in this picture?i cannot see it
+1038.tif:What is the theme of this picture?harbor
+1038.tif:Does this picture contain an airplane?no
+1038.tif:Does this picture contain trees?no
+1038.tif:How many boats in the picture?twenty-two
+1038.tif:What is the location of the boats in this picture?lower left and upper right
+1039.tif:What is the theme of this picture?harbor
+1039.tif:Does this picture contain an airplane?no
+1039.tif:Does this picture contain trees?no
+1039.tif:How many boats in the picture?ten
+1039.tif:What is the location of the boats in this picture?center and bottom
+104.tif:What is the theme of this picture?airport
+104.tif:Does this picture contain an airplane?yes
+104.tif:Does this picture contain trees?no
+104.tif:How many  in the picture?one
+104.tif:What is the location of the  in this picture?center
+1040.tif:What is the theme of this picture?harbor
+1040.tif:Does this picture contain an airplane?no
+1040.tif:Does this picture contain trees?no
+1040.tif:How many boats in the picture?fourteen
+1040.tif:What is the location of the boats in this picture?left and right
+1041.tif:What is the theme of this picture?harbor
+1041.tif:Does this picture contain an airplane?no
+1041.tif:Does this picture contain trees?no
+1041.tif:How many  in the picture?zero
+1041.tif:What is the location of the boats in this picture?left and right
+1042.tif:What is the theme of this picture?harbor
+1042.tif:Does this picture contain an airplane?no
+1042.tif:Does this picture contain trees?no
+1042.tif:How many boats in the picture?thirty-two
+1042.tif:What is the location of the boats in this picture?left and right
+1043.tif:What is the theme of this picture?harbor
+1043.tif:Does this picture contain an airplane?no
+1043.tif:Does this picture contain trees?no
+1043.tif:How many boats in the picture?eighteen
+1043.tif:What is the location of the boats in this picture?left and right
+1044.tif:What is the theme of this picture?harobr
+1044.tif:Does this picture contain an airplane?no
+1044.tif:Does this picture contain trees?no
+1044.tif:How many  in the picture?zero
+1044.tif:What is the location of the  in this picture?i cannot see it
+1045.tif:What is the theme of this picture?harbor
+1045.tif:Does this picture contain an airplane?no
+1045.tif:Does this picture contain trees?no
+1045.tif:How many boats in the picture?forty-nine
+1045.tif:What is the location of the boats in this picture?left and right
+1046.tif:What is the theme of this picture?harbor
+1046.tif:Does this picture contain an airplane?no
+1046.tif:Does this picture contain trees?no
+1046.tif:How many  in the picture?zero
+1046.tif:What is the location of the boats in this picture?left and right
+1047.tif:What is the theme of this picture?harbor
+1047.tif:Does this picture contain an airplane?no
+1047.tif:Does this picture contain trees?no
+1047.tif:How many  in the picture?zero
+1047.tif:What is the location of the boats in this picture?left and right
+1048.tif:What is the theme of this picture?harbor
+1048.tif:Does this picture contain an airplane?no
+1048.tif:Does this picture contain trees?no
+1048.tif:How many  in the picture?zero
+1048.tif:What is the location of the boats in this picture?left and right
+1049.tif:What is the theme of this picture?harbor
+1049.tif:Does this picture contain an airplane?no
+1049.tif:Does this picture contain trees?no
+1049.tif:How many  in the picture?zero
+1049.tif:What is the location of the  in this picture?i cannot see it
+105.tif:What is the theme of this picture?airport
+105.tif:Does this picture contain an airplane?yes
+105.tif:Does this picture contain trees?no
+105.tif:How many  in the picture?two
+105.tif:What is the location of the  in this picture?center and bottom
+1050.tif:What is the theme of this picture?harbor
+1050.tif:Does this picture contain an airplane?no
+1050.tif:Does this picture contain trees?no
+1050.tif:How many  in the picture?zero
+1050.tif:What is the location of the boats in this picture?left and right
+1051.tif:What is the theme of this picture?harbor
+1051.tif:Does this picture contain an airplane?no
+1051.tif:Does this picture contain trees?no
+1051.tif:How many boats in the picture?twenty-five
+1051.tif:What is the location of the boats in this picture?left and right
+1052.tif:What is the theme of this picture?harbor
+1052.tif:Does this picture contain an airplane?no
+1052.tif:Does this picture contain trees?no
+1052.tif:How many boats in the picture?forty-three
+1052.tif:What is the location of the boats in this picture?left and right
+1053.tif:What is the theme of this picture?harbor
+1053.tif:Does this picture contain an airplane?no
+1053.tif:Does this picture contain trees?no
+1053.tif:How many  in the picture?zero
+1053.tif:What is the location of the  in this picture?i cannot see it
+1054.tif:What is the theme of this picture?harbor
+1054.tif:Does this picture contain an airplane?no
+1054.tif:Does this picture contain trees?no
+1054.tif:How many boats in the picture?twenty-eight
+1054.tif:What is the location of the boats in this picture?up and bottom
+1055.tif:What is the theme of this picture?harbor
+1055.tif:Does this picture contain an airplane?no
+1055.tif:Does this picture contain trees?no
+1055.tif:How many  in the picture?zero
+1055.tif:What is the location of the boats in this picture?left and right
+1056.tif:What is the theme of this picture?harbor
+1056.tif:Does this picture contain an airplane?no
+1056.tif:Does this picture contain trees?no
+1056.tif:How many boats in the picture?fifty
+1056.tif:What is the location of the boats in this picture?left and right
+1057.tif:What is the theme of this picture?harbor
+1057.tif:Does this picture contain an airplane?no
+1057.tif:Does this picture contain trees?no
+1057.tif:How many  in the picture?zero
+1057.tif:What is the location of the boats in this picture?up and bottom
+1058.tif:What is the theme of this picture?harbor
+1058.tif:Does this picture contain an airplane?no
+1058.tif:Does this picture contain trees?no
+1058.tif:How many boats in the picture?forty-seven
+1058.tif:What is the location of the boats in this picture?up and bottom
+1059.tif:What is the theme of this picture?harbor
+1059.tif:Does this picture contain an airplane?no
+1059.tif:Does this picture contain trees?no
+1059.tif:How many boats in the picture?thirty
+1059.tif:What is the location of the boats in this picture?up and bottom
+106.tif:What is the theme of this picture?airport
+106.tif:Does this picture contain an airplane?yes
+106.tif:Does this picture contain trees?no
+106.tif:How many  in the picture?one
+106.tif:What is the location of the  in this picture?center
+1060.tif:What is the theme of this picture?harbor
+1060.tif:Does this picture contain an airplane?no
+1060.tif:Does this picture contain trees?no
+1060.tif:How many  in the picture?zero
+1060.tif:What is the location of the boats in this picture?left center and right
+1061.tif:What is the theme of this picture?harbor
+1061.tif:Does this picture contain an airplane?no
+1061.tif:Does this picture contain trees?no
+1061.tif:How many  in the picture?zero
+1061.tif:What is the location of the boats in this picture?left and right
+1062.tif:What is the theme of this picture?harbor
+1062.tif:Does this picture contain an airplane?no
+1062.tif:Does this picture contain trees?no
+1062.tif:How many boats in the picture?forty-four
+1062.tif:What is the location of the boats in this picture?up and bottom
+1063.tif:What is the theme of this picture?harbor
+1063.tif:Does this picture contain an airplane?no
+1063.tif:Does this picture contain trees?no
+1063.tif:How many boats in the picture?thirty-seven
+1063.tif:What is the location of the boats in this picture?up and bottom
+1064.tif:What is the theme of this picture?harbor
+1064.tif:Does this picture contain an airplane?no
+1064.tif:Does this picture contain trees?no
+1064.tif:How many  in the picture?zero
+1064.tif:What is the location of the boats in this picture?up center and bottom
+1065.tif:What is the theme of this picture?harbor
+1065.tif:Does this picture contain an airplane?no
+1065.tif:Does this picture contain trees?no
+1065.tif:How many  in the picture?zero
+1065.tif:What is the location of the  in this picture?i cannot see it
+1066.tif:What is the theme of this picture?harbor
+1066.tif:Does this picture contain an airplane?no
+1066.tif:Does this picture contain trees?no
+1066.tif:How many boats in the picture?fifty-four
+1066.tif:What is the location of the boats in this picture?left and right
+1067.tif:What is the theme of this picture?harbor
+1067.tif:Does this picture contain an airplane?no
+1067.tif:Does this picture contain trees?no
+1067.tif:How many  in the picture?zero
+1067.tif:What is the location of the boats in this picture?left and right
+1068.tif:What is the theme of this picture?harbor
+1068.tif:Does this picture contain an airplane?no
+1068.tif:Does this picture contain trees?no
+1068.tif:How many  in the picture?zero
+1068.tif:What is the location of the boats in this picture?up and bottom
+1069.tif:What is the theme of this picture?harbor
+1069.tif:Does this picture contain an airplane?no
+1069.tif:Does this picture contain trees?no
+1069.tif:How many boats in the picture?twenty-nine
+1069.tif:What is the location of the boats in this picture?up and bottom
+107.tif:What is the theme of this picture?airport
+107.tif:Does this picture contain an airplane?yes
+107.tif:Does this picture contain trees?no
+107.tif:How many  in the picture?two
+107.tif:What is the location of the  in this picture?up and bottom
+1070.tif:What is the theme of this picture?harbor
+1070.tif:Does this picture contain an airplane?no
+1070.tif:Does this picture contain trees?yes
+1070.tif:How many boats in the picture?thirty-six
+1070.tif:What is the location of the boats in this picture?up and bottom
+1071.tif:What is the theme of this picture?harbor
+1071.tif:Does this picture contain an airplane?no
+1071.tif:Does this picture contain trees?yes
+1071.tif:How many boats in the picture?twenty-two
+1071.tif:What is the location of the boats in this picture?up and bottom
+1072.tif:What is the theme of this picture?harbor
+1072.tif:Does this picture contain an airplane?no
+1072.tif:Does this picture contain trees?no
+1072.tif:How many  in the picture?zero
+1072.tif:What is the location of the boats in this picture?lower left and upper right
+1073.tif:What is the theme of this picture?harbor
+1073.tif:Does this picture contain an airplane?no
+1073.tif:Does this picture contain trees?no
+1073.tif:How many boats in the picture?thirty-six
+1073.tif:What is the location of the boats in this picture?lower left and upper right
+1074.tif:What is the theme of this picture?harbor
+1074.tif:Does this picture contain an airplane?no
+1074.tif:Does this picture contain trees?no
+1074.tif:How many  in the picture?zero
+1074.tif:What is the location of the boats in this picture?lower left and upper right
+1075.tif:What is the theme of this picture?harbor
+1075.tif:Does this picture contain an airplane?no
+1075.tif:Does this picture contain trees?no
+1075.tif:How many  in the picture?zero
+1075.tif:What is the location of the boats in this picture?lower left and upper right
+1076.tif:What is the theme of this picture?harbor
+1076.tif:Does this picture contain an airplane?no
+1076.tif:Does this picture contain trees?no
+1076.tif:How many  in the picture?zero
+1076.tif:What is the location of the  in this picture?i cannot see it
+1077.tif:What is the theme of this picture?harbor
+1077.tif:Does this picture contain an airplane?no
+1077.tif:Does this picture contain trees?no
+1077.tif:How many  in the picture?zero
+1077.tif:What is the location of the  in this picture?i cannot see it
+1078.tif:What is the theme of this picture?harbor
+1078.tif:Does this picture contain an airplane?no
+1078.tif:Does this picture contain trees?no
+1078.tif:How many  in the picture?zero
+1078.tif:What is the location of the  in this picture?i cannot see it
+1079.tif:What is the theme of this picture?harbor
+1079.tif:Does this picture contain an airplane?no
+1079.tif:Does this picture contain trees?no
+1079.tif:How many boats in the picture?sixty-one
+1079.tif:What is the location of the boats in this picture?lower left diagonal and upper right
+108.tif:What is the theme of this picture?airport
+108.tif:Does this picture contain an airplane?no
+108.tif:Does this picture contain trees?no
+108.tif:How many  in the picture?one
+108.tif:What is the location of the  in this picture?center
+1080.tif:What is the theme of this picture?harbor
+1080.tif:Does this picture contain an airplane?no
+1080.tif:Does this picture contain trees?no
+1080.tif:How many boats in the picture?forty-one
+1080.tif:What is the location of the boats in this picture?lower left diagonal and upper right
+1081.tif:What is the theme of this picture?harbor
+1081.tif:Does this picture contain an airplane?no
+1081.tif:Does this picture contain trees?no
+1081.tif:How many boats in the picture?thirty
+1081.tif:What is the location of the boats in this picture?lower left and upper right
+1082.tif:What is the theme of this picture?harbor
+1082.tif:Does this picture contain an airplane?no
+1082.tif:Does this picture contain trees?no
+1082.tif:How many boats in the picture?thirty-one
+1082.tif:What is the location of the boats in this picture?lower left and upper right
+1083.tif:What is the theme of this picture?harbor
+1083.tif:Does this picture contain an airplane?no
+1083.tif:Does this picture contain trees?no
+1083.tif:How many  in the picture?zero
+1083.tif:What is the location of the  in this picture?i cannot see it
+1084.tif:What is the theme of this picture?harbor
+1084.tif:Does this picture contain an airplane?no
+1084.tif:Does this picture contain trees?no
+1084.tif:How many boats in the picture?forty
+1084.tif:What is the location of the boats in this picture?up and bottom
+1085.tif:What is the theme of this picture?harbor
+1085.tif:Does this picture contain an airplane?no
+1085.tif:Does this picture contain trees?no
+1085.tif:How many  in the picture?zero
+1085.tif:What is the location of the  in this picture?i cannot see it
+1086.tif:What is the theme of this picture?harbor
+1086.tif:Does this picture contain an airplane?no
+1086.tif:Does this picture contain trees?no
+1086.tif:How many boats in the picture?thirty
+1086.tif:What is the location of the boats in this picture?left and right
+1087.tif:What is the theme of this picture?harbor
+1087.tif:Does this picture contain an airplane?no
+1087.tif:Does this picture contain trees?no
+1087.tif:How many boats in the picture?thirty-eight
+1087.tif:What is the location of the boats in this picture?left and right
+1088.tif:What is the theme of this picture?harbor
+1088.tif:Does this picture contain an airplane?no
+1088.tif:Does this picture contain trees?no
+1088.tif:How many  in the picture?zero
+1088.tif:What is the location of the boats in this picture?left and right
+1089.tif:What is the theme of this picture?harbor
+1089.tif:Does this picture contain an airplane?no
+1089.tif:Does this picture contain trees?no
+1089.tif:How many boats in the picture?forty-nine
+1089.tif:What is the location of the boats in this picture?left and right
+109.tif:What is the theme of this picture?airport
+109.tif:Does this picture contain an airplane?yes
+109.tif:Does this picture contain trees?no
+109.tif:How many  in the picture?one
+109.tif:What is the location of the  in this picture?center
+1090.tif:What is the theme of this picture?harbor
+1090.tif:Does this picture contain an airplane?no
+1090.tif:Does this picture contain trees?no
+1090.tif:How many  in the picture?zero
+1090.tif:What is the location of the boats in this picture?left and right
+1091.tif:What is the theme of this picture?harbor
+1091.tif:Does this picture contain an airplane?no
+1091.tif:Does this picture contain trees?no
+1091.tif:How many boats in the picture?thirty-four
+1091.tif:What is the location of the boats in this picture?left and right
+1092.tif:What is the theme of this picture?harbor
+1092.tif:Does this picture contain an airplane?no
+1092.tif:Does this picture contain trees?no
+1092.tif:How many  in the picture?zero
+1092.tif:What is the location of the  in this picture?i cannot see it
+1093.tif:What is the theme of this picture?harbor
+1093.tif:Does this picture contain an airplane?no
+1093.tif:Does this picture contain trees?no
+1093.tif:How many  in the picture?zero
+1093.tif:What is the location of the  in this picture?i cannot see it
+1094.tif:What is the theme of this picture?harbor
+1094.tif:Does this picture contain an airplane?no
+1094.tif:Does this picture contain trees?no
+1094.tif:How many boats in the picture?thirty-six
+1094.tif:What is the location of the boats in this picture?center and up
+1095.tif:What is the theme of this picture?harbor
+1095.tif:Does this picture contain an airplane?no
+1095.tif:Does this picture contain trees?no
+1095.tif:How many boats in the picture?thirty-six
+1095.tif:What is the location of the  in this picture?i cannot see it
+1096.tif:What is the theme of this picture?harbor
+1096.tif:Does this picture contain an airplane?no
+1096.tif:Does this picture contain trees?no
+1096.tif:How many boats in the picture?twenty-five
+1096.tif:What is the location of the boats in this picture?four corners
+1097.tif:What is the theme of this picture?harbor
+1097.tif:Does this picture contain an airplane?no
+1097.tif:Does this picture contain trees?no
+1097.tif:How many boats in the picture?twenty
+1097.tif:What is the location of the  in this picture?i cannot see it
+1098.tif:What is the theme of this picture?harbor
+1098.tif:Does this picture contain an airplane?no
+1098.tif:Does this picture contain trees?no
+1098.tif:How many boats in the picture?four
+1098.tif:What is the location of the  in this picture?i cannot see it
+1099.tif:What is the theme of this picture?harbor
+1099.tif:Does this picture contain an airplane?no
+1099.tif:Does this picture contain trees?no
+1099.tif:How many boats in the picture?twenty-three
+1099.tif:What is the location of the boats in this picture?left and center
+11.tif:What is the theme of this picture?farmland
+11.tif:Does this picture contain an airplane?no
+11.tif:Does this picture contain trees?no
+11.tif:How many  in the picture?zero
+11.tif:What is the location of the  in this picture?i cannot see it
+110.tif:What is the theme of this picture?airport
+110.tif:Does this picture contain an airplane?yes
+110.tif:Does this picture contain trees?no
+110.tif:How many  in the picture?one
+110.tif:What is the location of the  in this picture?center
+1100.tif:What is the theme of this picture?harbor
+1100.tif:Does this picture contain an airplane?no
+1100.tif:Does this picture contain trees?no
+1100.tif:How many boats in the picture?twenty-six
+1100.tif:What is the location of the boats in this picture?left and center
+1101.tif:What is the theme of this picture?intersection
+1101.tif:Does this picture contain an airplane?no
+1101.tif:Does this picture contain trees?no
+1101.tif:How many  in the picture?zero
+1101.tif:What is the location of the  in this picture?i cannot see it
+1102.tif:What is the theme of this picture?intersection
+1102.tif:Does this picture contain an airplane?no
+1102.tif:Does this picture contain trees?no
+1102.tif:How many cars in the picture?eighteen
+1102.tif:What is the location of the intersection in this picture?diagonal
+1103.tif:What is the theme of this picture?intersection
+1103.tif:Does this picture contain an airplane?no
+1103.tif:Does this picture contain trees?yes
+1103.tif:How many buildings in the picture?three
+1103.tif:What is the location of the intersection in this picture?diagonal
+1104.tif:What is the theme of this picture?intersection
+1104.tif:Does this picture contain an airplane?no
+1104.tif:Does this picture contain trees?yes
+1104.tif:How many  in the picture?zero
+1104.tif:What is the location of the  in this picture?i cannot see it
+1105.tif:What is the theme of this picture?intersection
+1105.tif:Does this picture contain an airplane?no
+1105.tif:Does this picture contain trees?yes
+1105.tif:How many cars in the picture?two
+1105.tif:What is the location of the red cars in this picture?middle of road
+1106.tif:What is the theme of this picture?intersection
+1106.tif:Does this picture contain an airplane?no
+1106.tif:Does this picture contain trees?yes
+1106.tif:How many buildings in the picture?five
+1106.tif:What is the location of the  in this picture?i cannot see it
+1107.tif:What is the theme of this picture?intersection
+1107.tif:Does this picture contain an airplane?no
+1107.tif:Does this picture contain trees?yes
+1107.tif:How many buildings in the picture?two
+1107.tif:What is the location of the  in this picture?i cannot see it
+1108.tif:What is the theme of this picture?intersection
+1108.tif:Does this picture contain an airplane?no
+1108.tif:Does this picture contain trees?yes
+1108.tif:How many cars in the picture?twelve
+1108.tif:What is the location of the tennis court in this picture?upper left
+1109.tif:What is the theme of this picture?intersection
+1109.tif:Does this picture contain an airplane?no
+1109.tif:Does this picture contain trees?yes
+1109.tif:How many buildings in the picture?ten
+1109.tif:What is the location of the  in this picture?i cannot see it
+111.tif:What is the theme of this picture?airport
+111.tif:Does this picture contain an airplane?yes
+111.tif:Does this picture contain trees?no
+111.tif:How many  in the picture?one
+111.tif:What is the location of the  in this picture?center
+1110.tif:What is the theme of this picture?intersection
+1110.tif:Does this picture contain an airplane?no
+1110.tif:Does this picture contain trees?yes
+1110.tif:How many cars in the picture?seven
+1110.tif:What is the location of the square building in this picture?upper left
+1111.tif:What is the theme of this picture?intersection
+1111.tif:Does this picture contain an airplane?no
+1111.tif:Does this picture contain trees?yes
+1111.tif:How many  in the picture?zero
+1111.tif:What is the location of the  in this picture?i cannot see it
+1112.tif:What is the theme of this picture?intersection
+1112.tif:Does this picture contain an airplane?no
+1112.tif:Does this picture contain trees?yes
+1112.tif:How many red cars in the picture?two
+1112.tif:What is the location of the trees in this picture?upper left
+1113.tif:What is the theme of this picture?intersection
+1113.tif:Does this picture contain an airplane?no
+1113.tif:Does this picture contain trees?yes
+1113.tif:How many red cars in the picture?three
+1113.tif:What is the location of the tennis court in this picture?i cannot see it
+1114.tif:What is the theme of this picture?intersection
+1114.tif:Does this picture contain an airplane?no
+1114.tif:Does this picture contain trees?yes
+1114.tif:How many buildings in the picture?four
+1114.tif:What is the location of the  in this picture?i cannot see it
+1115.tif:What is the theme of this picture?intersection
+1115.tif:Does this picture contain an airplane?no
+1115.tif:Does this picture contain trees?yes
+1115.tif:How many trees in the picture?several
+1115.tif:What is the location of the trees in this picture?lower left
+1116.tif:What is the theme of this picture?intersection
+1116.tif:Does this picture contain an airplane?no
+1116.tif:Does this picture contain trees?yes
+1116.tif:How many  in the picture?zero
+1116.tif:What is the location of the intersection in this picture?center
+1117.tif:What is the theme of this picture?intersection
+1117.tif:Does this picture contain an airplane?no
+1117.tif:Does this picture contain trees?yes
+1117.tif:How many cars in the picture?eight
+1117.tif:What is the location of the intersection in this picture?center
+1118.tif:What is the theme of this picture?intersection
+1118.tif:Does this picture contain an airplane?no
+1118.tif:Does this picture contain trees?yes
+1118.tif:How many cars in the picture?twenty-six
+1118.tif:What is the location of the parking lot in this picture?upper right
+1119.tif:What is the theme of this picture?intersection
+1119.tif:Does this picture contain an airplane?no
+1119.tif:Does this picture contain trees?yes
+1119.tif:How many cars in the picture?twelve
+1119.tif:What is the location of the intersection in this picture?center
+112.tif:What is the theme of this picture?airport
+112.tif:Does this picture contain an airplane?yes
+112.tif:Does this picture contain trees?no
+112.tif:How many  in the picture?one
+112.tif:What is the location of the  in this picture?center
+1120.tif:What is the theme of this picture?intersection
+1120.tif:Does this picture contain an airplane?no
+1120.tif:Does this picture contain trees?yes
+1120.tif:How many cars in the picture?twenty-five
+1120.tif:What is the location of the intersection in this picture?center
+1121.tif:What is the theme of this picture?intersection
+1121.tif:Does this picture contain an airplane?no
+1121.tif:Does this picture contain trees?yes
+1121.tif:How many  in the picture?zero
+1121.tif:What is the location of the parking lot in this picture?upper right
+1122.tif:What is the theme of this picture?intersection
+1122.tif:Does this picture contain an airplane?no
+1122.tif:Does this picture contain trees?yes
+1122.tif:How many cars in the picture?eight
+1122.tif:What is the location of the red car in this picture?upper left
+1123.tif:What is the theme of this picture?intersection
+1123.tif:Does this picture contain an airplane?no
+1123.tif:Does this picture contain trees?yes
+1123.tif:How many cars in the picture?one
+1123.tif:What is the location of the car in this picture?center
+1124.tif:What is the theme of this picture?intersection
+1124.tif:Does this picture contain an airplane?no
+1124.tif:Does this picture contain trees?yes
+1124.tif:How many cars in the picture?seventeen
+1124.tif:What is the location of the  in this picture?i cannot see it
+1125.tif:What is the theme of this picture?intersection
+1125.tif:Does this picture contain an airplane?no
+1125.tif:Does this picture contain trees?yes
+1125.tif:How many cars in the picture?eleven
+1125.tif:What is the location of the intersection in this picture?center
+1126.tif:What is the theme of this picture?intersection
+1126.tif:Does this picture contain an airplane?no
+1126.tif:Does this picture contain trees?yes
+1126.tif:How many buildings in the picture?five
+1126.tif:What is the location of the intersection in this picture?center
+1127.tif:What is the theme of this picture?intersection
+1127.tif:Does this picture contain an airplane?no
+1127.tif:Does this picture contain trees?yes
+1127.tif:How many cars in the picture?eight
+1127.tif:What is the location of the parking lot in this picture?upper right
+1128.tif:What is the theme of this picture?intersection
+1128.tif:Does this picture contain an airplane?no
+1128.tif:Does this picture contain trees?yes
+1128.tif:How many cars in the picture?eleven
+1128.tif:What is the location of the trees in this picture?right
+1129.tif:What is the theme of this picture?intersection
+1129.tif:Does this picture contain an airplane?no
+1129.tif:Does this picture contain trees?yes
+1129.tif:How many cars in the picture?nine
+1129.tif:What is the location of the buildings in this picture?lower right
+113.tif:What is the theme of this picture?airport
+113.tif:Does this picture contain an airplane?yes
+113.tif:Does this picture contain trees?no
+113.tif:How many  in the picture?one
+113.tif:What is the location of the  in this picture?center
+1130.tif:What is the theme of this picture?intersection
+1130.tif:Does this picture contain an airplane?no
+1130.tif:Does this picture contain trees?yes
+1130.tif:How many parking lots in the picture?three
+1130.tif:What is the location of the  in this picture?i cannot see it
+1131.tif:What is the theme of this picture?intersection
+1131.tif:Does this picture contain an airplane?no
+1131.tif:Does this picture contain trees?yes
+1131.tif:How many trees in the picture?seven
+1131.tif:What is the location of the intersection in this picture?center
+1132.tif:What is the theme of this picture?intersection
+1132.tif:Does this picture contain an airplane?no
+1132.tif:Does this picture contain trees?yes
+1132.tif:How many trees in the picture?seven
+1132.tif:What is the location of the intersection in this picture?center
+1133.tif:What is the theme of this picture?intersection
+1133.tif:Does this picture contain an airplane?no
+1133.tif:Does this picture contain trees?yes
+1133.tif:How many cars in the picture?twenty-six
+1133.tif:What is the location of the white truck in this picture?lower right
+1134.tif:What is the theme of this picture?intersection
+1134.tif:Does this picture contain an airplane?no
+1134.tif:Does this picture contain trees?yes
+1134.tif:How many cars in the picture?seventeen
+1134.tif:What is the location of the white truck in this picture?upper right
+1135.tif:What is the theme of this picture?intersection
+1135.tif:Does this picture contain an airplane?no
+1135.tif:Does this picture contain trees?yes
+1135.tif:How many buildings in the picture?six
+1135.tif:What is the location of the white truck in this picture?center
+1136.tif:What is the theme of this picture?intersection
+1136.tif:Does this picture contain an airplane?no
+1136.tif:Does this picture contain trees?yes
+1136.tif:How many white cars in the picture?five
+1136.tif:What is the location of the lawn in this picture?up
+1137.tif:What is the theme of this picture?intersection
+1137.tif:Does this picture contain an airplane?no
+1137.tif:Does this picture contain trees?yes
+1137.tif:How many yellow cars in the picture?three
+1137.tif:What is the location of the intersection in this picture?center
+1138.tif:What is the theme of this picture?intersection
+1138.tif:Does this picture contain an airplane?no
+1138.tif:Does this picture contain trees?yes
+1138.tif:How many yellow cars in the picture?three
+1138.tif:What is the location of the buildings in this picture?upper right
+1139.tif:What is the theme of this picture?intersection
+1139.tif:Does this picture contain an airplane?no
+1139.tif:Does this picture contain trees?yes
+1139.tif:How many yellow cars in the picture?one
+1139.tif:What is the location of the yellow car in this picture?lower left
+114.tif:What is the theme of this picture?airport
+114.tif:Does this picture contain an airplane?yes
+114.tif:Does this picture contain trees?no
+114.tif:How many  in the picture?one
+114.tif:What is the location of the  in this picture?center
+1140.tif:What is the theme of this picture?intersection
+1140.tif:Does this picture contain an airplane?no
+1140.tif:Does this picture contain trees?yes
+1140.tif:How many  in the picture?zero
+1140.tif:What is the location of the  in this picture?i cannot see it
+1141.tif:What is the theme of this picture?intersection
+1141.tif:Does this picture contain an airplane?no
+1141.tif:Does this picture contain trees?yes
+1141.tif:How many buildings in the picture?three
+1141.tif:What is the location of the yellow car in this picture?left
+1142.tif:What is the theme of this picture?intersection
+1142.tif:Does this picture contain an airplane?no
+1142.tif:Does this picture contain trees?yes
+1142.tif:How many  in the picture?zero
+1142.tif:What is the location of the  in this picture?i cannot see it
+1143.tif:What is the theme of this picture?intersection
+1143.tif:Does this picture contain an airplane?no
+1143.tif:Does this picture contain trees?yes
+1143.tif:How many roads in the picture?two
+1143.tif:What is the location of the intersection in this picture?center
+1144.tif:What is the theme of this picture?intersection
+1144.tif:Does this picture contain an airplane?no
+1144.tif:Does this picture contain trees?yes
+1144.tif:How many buildings in the picture?four
+1144.tif:What is the location of the red car in this picture?lower left
+1145.tif:What is the theme of this picture?intersection
+1145.tif:Does this picture contain an airplane?no
+1145.tif:Does this picture contain trees?yes
+1145.tif:How many  in the picture?zero
+1145.tif:What is the location of the yellow car in this picture?upper left
+1146.tif:What is the theme of this picture?intersection
+1146.tif:Does this picture contain an airplane?no
+1146.tif:Does this picture contain trees?yes
+1146.tif:How many cars in the picture?sixteen
+1146.tif:What is the location of the cars in this picture?right
+1147.tif:What is the theme of this picture?intersection
+1147.tif:Does this picture contain an airplane?no
+1147.tif:Does this picture contain trees?yes
+1147.tif:How many cars in the picture?three
+1147.tif:What is the location of the cars in this picture?center
+1148.tif:What is the theme of this picture?intersection
+1148.tif:Does this picture contain an airplane?no
+1148.tif:Does this picture contain trees?yes
+1148.tif:How many car in the picture?six
+1148.tif:What is the location of the buildings in this picture?bottom
+1149.tif:What is the theme of this picture?intersection
+1149.tif:Does this picture contain an airplane?no
+1149.tif:Does this picture contain trees?yes
+1149.tif:How many cars in the picture?nine
+1149.tif:What is the location of the red car in this picture?lower left
+115.tif:What is the theme of this picture?airport
+115.tif:Does this picture contain an airplane?yes
+115.tif:Does this picture contain trees?no
+115.tif:How many  in the picture?one
+115.tif:What is the location of the  in this picture?center
+1150.tif:What is the theme of this picture?intersection
+1150.tif:Does this picture contain an airplane?no
+1150.tif:Does this picture contain trees?yes
+1150.tif:How many yellow cars in the picture?one
+1150.tif:What is the location of the yellow car in this picture?upper right
+1151.tif:What is the theme of this picture?intersection
+1151.tif:Does this picture contain an airplane?no
+1151.tif:Does this picture contain trees?yes
+1151.tif:How many yellow cars in the picture?one
+1151.tif:What is the location of the yellow car in this picture?up
+1152.tif:What is the theme of this picture?intersection
+1152.tif:Does this picture contain an airplane?no
+1152.tif:Does this picture contain trees?yes
+1152.tif:How many buildings in the picture?four
+1152.tif:What is the location of the red car in this picture?right
+1153.tif:What is the theme of this picture?intersection
+1153.tif:Does this picture contain an airplane?no
+1153.tif:Does this picture contain trees?yes
+1153.tif:How many cars in the picture?two
+1153.tif:What is the location of the red car in this picture?up
+1154.tif:What is the theme of this picture?intersection
+1154.tif:Does this picture contain an airplane?no
+1154.tif:Does this picture contain trees?yes
+1154.tif:How many red cars in the picture?six
+1154.tif:What is the location of the intersection in this picture?center
+1155.tif:What is the theme of this picture?intersection
+1155.tif:Does this picture contain an airplane?no
+1155.tif:Does this picture contain trees?yes
+1155.tif:How many buildings in the picture?four
+1155.tif:What is the location of the  in this picture?i cannot see it
+1156.tif:What is the theme of this picture?intersection
+1156.tif:Does this picture contain an airplane?no
+1156.tif:Does this picture contain trees?yes
+1156.tif:How many yellow cars in the picture?one
+1156.tif:What is the location of the yellow car in this picture?lower left
+1157.tif:What is the theme of this picture?intersection
+1157.tif:Does this picture contain an airplane?no
+1157.tif:Does this picture contain trees?yes
+1157.tif:How many cars in the picture?thirteen
+1157.tif:What is the location of the intersection in this picture?center
+1158.tif:What is the theme of this picture?intersection
+1158.tif:Does this picture contain an airplane?no
+1158.tif:Does this picture contain trees?yes
+1158.tif:How many  in the picture?zero
+1158.tif:What is the location of the  in this picture?i cannot see it
+1159.tif:What is the theme of this picture?intersection
+1159.tif:Does this picture contain an airplane?no
+1159.tif:Does this picture contain trees?yes
+1159.tif:How many cars in the picture?ten
+1159.tif:What is the location of the intersection in this picture?center
+116.tif:What is the theme of this picture?airport
+116.tif:Does this picture contain an airplane?yes
+116.tif:Does this picture contain trees?no
+116.tif:How many  in the picture?one
+116.tif:What is the location of the  in this picture?center
+1160.tif:What is the theme of this picture?intersection
+1160.tif:Does this picture contain an airplane?no
+1160.tif:Does this picture contain trees?yes
+1160.tif:How many  in the picture?zero
+1160.tif:What is the location of the  in this picture?i cannot see it
+1161.tif:What is the theme of this picture?intersection
+1161.tif:Does this picture contain an airplane?no
+1161.tif:Does this picture contain trees?yes
+1161.tif:How many buildings in the picture?four
+1161.tif:What is the location of the buildings in this picture?four corners
+1162.tif:What is the theme of this picture?intersection
+1162.tif:Does this picture contain an airplane?no
+1162.tif:Does this picture contain trees?yes
+1162.tif:How many buildings in the picture?four
+1162.tif:What is the location of the buildings in this picture?four corners
+1163.tif:What is the theme of this picture?intersection
+1163.tif:Does this picture contain an airplane?no
+1163.tif:Does this picture contain trees?yes
+1163.tif:How many  in the picture?zero
+1163.tif:What is the location of the  in this picture?i cannot see it
+1164.tif:What is the theme of this picture?intersection
+1164.tif:Does this picture contain an airplane?no
+1164.tif:Does this picture contain trees?yes
+1164.tif:How many  in the picture?zero
+1164.tif:What is the location of the  in this picture?i cannot see it
+1165.tif:What is the theme of this picture?intersection
+1165.tif:Does this picture contain an airplane?no
+1165.tif:Does this picture contain trees?yes
+1165.tif:How many  in the picture?zero
+1165.tif:What is the location of the  in this picture?i cannot see it
+1166.tif:What is the theme of this picture?intersection
+1166.tif:Does this picture contain an airplane?no
+1166.tif:Does this picture contain trees?yes
+1166.tif:How many  in the picture?zero
+1166.tif:What is the location of the  in this picture?i cannot see it
+1167.tif:What is the theme of this picture?intersection
+1167.tif:Does this picture contain an airplane?no
+1167.tif:Does this picture contain trees?yes
+1167.tif:How many cars in the picture?twenty-seven
+1167.tif:What is the location of the red car in this picture?up left
+1168.tif:What is the theme of this picture?intersection
+1168.tif:Does this picture contain an airplane?no
+1168.tif:Does this picture contain trees?yes
+1168.tif:How many buildings in the picture?three
+1168.tif:What is the location of the yellow truck in this picture?bottom
+1169.tif:What is the theme of this picture?intersection
+1169.tif:Does this picture contain an airplane?no
+1169.tif:Does this picture contain trees?yes
+1169.tif:How many red cars in the picture?one
+1169.tif:What is the location of the red car in this picture?left
+117.tif:What is the theme of this picture?airport
+117.tif:Does this picture contain an airplane?yes
+117.tif:Does this picture contain trees?no
+117.tif:How many  in the picture?one
+117.tif:What is the location of the  in this picture?center
+1170.tif:What is the theme of this picture?intersection
+1170.tif:Does this picture contain an airplane?no
+1170.tif:Does this picture contain trees?yes
+1170.tif:How many red cars in the picture?four
+1170.tif:What is the location of the trees in this picture?next to the road
+1171.tif:What is the theme of this picture?intersection
+1171.tif:Does this picture contain an airplane?no
+1171.tif:Does this picture contain trees?yes
+1171.tif:How many yellow cars in the picture?one
+1171.tif:What is the location of the yellow car in this picture?lower left
+1172.tif:What is the theme of this picture?intersection
+1172.tif:Does this picture contain an airplane?no
+1172.tif:Does this picture contain trees?yes
+1172.tif:How many parking lots in the picture?four
+1172.tif:What is the location of the parking lots in this picture?four corners
+1173.tif:What is the theme of this picture?intersection
+1173.tif:Does this picture contain an airplane?no
+1173.tif:Does this picture contain trees?yes
+1173.tif:How many red cars in the picture?two
+1173.tif:What is the location of the red cars in this picture?up
+1174.tif:What is the theme of this picture?intersection
+1174.tif:Does this picture contain an airplane?no
+1174.tif:Does this picture contain trees?yes
+1174.tif:How many yellow cars in the picture?one
+1174.tif:What is the location of the yellow car in this picture?lower right
+1175.tif:What is the theme of this picture?intersection
+1175.tif:Does this picture contain an airplane?no
+1175.tif:Does this picture contain trees?yes
+1175.tif:How many red cars in the picture?two
+1175.tif:What is the location of the red cars in this picture?center
+1176.tif:What is the theme of this picture?intersection
+1176.tif:Does this picture contain an airplane?no
+1176.tif:Does this picture contain trees?yes
+1176.tif:How many yellow cars in the picture?one
+1176.tif:What is the location of the yellow car in this picture?center
+1177.tif:What is the theme of this picture?intersection
+1177.tif:Does this picture contain an airplane?no
+1177.tif:Does this picture contain trees?yes
+1177.tif:How many roads in the picture?two
+1177.tif:What is the location of the intersection in this picture?center
+1178.tif:What is the theme of this picture?intersection
+1178.tif:Does this picture contain an airplane?no
+1178.tif:Does this picture contain trees?yes
+1178.tif:How many buildings in the picture?three
+1178.tif:What is the location of the buildings in this picture?left
+1179.tif:What is the theme of this picture?intersection
+1179.tif:Does this picture contain an airplane?no
+1179.tif:Does this picture contain trees?yes
+1179.tif:How many red cars in the picture?four
+1179.tif:What is the location of the cars in this picture?lower right
+118.tif:What is the theme of this picture?airport
+118.tif:Does this picture contain an airplane?yes
+118.tif:Does this picture contain trees?no
+118.tif:How many  in the picture?one
+118.tif:What is the location of the  in this picture?center
+1180.tif:What is the theme of this picture?intersection
+1180.tif:Does this picture contain an airplane?no
+1180.tif:Does this picture contain trees?yes
+1180.tif:How many  in the picture?zero
+1180.tif:What is the location of the  in this picture?i cannot see it
+1181.tif:What is the theme of this picture?intersection
+1181.tif:Does this picture contain an airplane?no
+1181.tif:Does this picture contain trees?yes
+1181.tif:How many red cars in the picture?three
+1181.tif:What is the location of the red cars in this picture?upper right
+1182.tif:What is the theme of this picture?intersection
+1182.tif:Does this picture contain an airplane?no
+1182.tif:Does this picture contain trees?yes
+1182.tif:How many  in the picture?zero
+1182.tif:What is the location of the  in this picture?i cannot see it
+1183.tif:What is the theme of this picture?intersection
+1183.tif:Does this picture contain an airplane?no
+1183.tif:Does this picture contain trees?yes
+1183.tif:How many  in the picture?zero
+1183.tif:What is the location of the  in this picture?i cannot see it
+1184.tif:What is the theme of this picture?intersection
+1184.tif:Does this picture contain an airplane?no
+1184.tif:Does this picture contain trees?yes
+1184.tif:How many buildings in the picture?two
+1184.tif:What is the location of the buildings in this picture?up
+1185.tif:What is the theme of this picture?intersection
+1185.tif:Does this picture contain an airplane?no
+1185.tif:Does this picture contain trees?yes
+1185.tif:How many roads in the picture?two
+1185.tif:What is the location of the intersection in this picture?center
+1186.tif:What is the theme of this picture?intersection
+1186.tif:Does this picture contain an airplane?no
+1186.tif:Does this picture contain trees?yes
+1186.tif:How many  in the picture?zero
+1186.tif:What is the location of the  in this picture?i cannot see it
+1187.tif:What is the theme of this picture?intersection
+1187.tif:Does this picture contain an airplane?no
+1187.tif:Does this picture contain trees?yes
+1187.tif:How many cars in the picture?one
+1187.tif:What is the location of the car in this picture?lower left
+1188.tif:What is the theme of this picture?intersection
+1188.tif:Does this picture contain an airplane?no
+1188.tif:Does this picture contain trees?yes
+1188.tif:How many red cars in the picture?two
+1188.tif:What is the location of the truck in this picture?center
+1189.tif:What is the theme of this picture?intersection
+1189.tif:Does this picture contain an airplane?no
+1189.tif:Does this picture contain trees?yes
+1189.tif:How many buildings in the picture?five
+1189.tif:What is the location of the buildings in this picture?four corners
+119.tif:What is the theme of this picture?airport
+119.tif:Does this picture contain an airplane?yes
+119.tif:Does this picture contain trees?no
+119.tif:How many  in the picture?one
+119.tif:What is the location of the  in this picture?center
+1190.tif:What is the theme of this picture?intersection
+1190.tif:Does this picture contain an airplane?no
+1190.tif:Does this picture contain trees?yes
+1190.tif:How many red cars in the picture?one
+1190.tif:What is the location of the intersection in this picture?center
+1191.tif:What is the theme of this picture?intersection
+1191.tif:Does this picture contain an airplane?no
+1191.tif:Does this picture contain trees?yes
+1191.tif:How many cars in the picture?four
+1191.tif:What is the location of the white car in this picture?center
+1192.tif:What is the theme of this picture?intersection
+1192.tif:Does this picture contain an airplane?no
+1192.tif:Does this picture contain trees?yes
+1192.tif:How many  in the picture?zero
+1192.tif:What is the location of the  in this picture?i cannot see it
+1193.tif:What is the theme of this picture?intersection
+1193.tif:Does this picture contain an airplane?no
+1193.tif:Does this picture contain trees?yes
+1193.tif:How many white cars in the picture?one
+1193.tif:What is the location of the white car in this picture?up
+1194.tif:What is the theme of this picture?intersection
+1194.tif:Does this picture contain an airplane?no
+1194.tif:Does this picture contain trees?yes
+1194.tif:How many red cars in the picture?two
+1194.tif:What is the location of the intersection in this picture?center
+1195.tif:What is the theme of this picture?intersection
+1195.tif:Does this picture contain an airplane?no
+1195.tif:Does this picture contain trees?yes
+1195.tif:How many red cars in the picture?two
+1195.tif:What is the location of the red cars in this picture?left
+1196.tif:What is the theme of this picture?intersection
+1196.tif:Does this picture contain an airplane?no
+1196.tif:Does this picture contain trees?yes
+1196.tif:How many  in the picture?zero
+1196.tif:What is the location of the  in this picture?i cannot see it
+1197.tif:What is the theme of this picture?intersection
+1197.tif:Does this picture contain an airplane?no
+1197.tif:Does this picture contain trees?yes
+1197.tif:How many buildings in the picture?six
+1197.tif:What is the location of the buildings in this picture?four corners
+1198.tif:What is the theme of this picture?intersection
+1198.tif:Does this picture contain an airplane?no
+1198.tif:Does this picture contain trees?yes
+1198.tif:How many red cars in the picture?two
+1198.tif:What is the location of the intersection in this picture?center
+1199.tif:What is the theme of this picture?intersection
+1199.tif:Does this picture contain an airplane?no
+1199.tif:Does this picture contain trees?yes
+1199.tif:How many red cars in the picture?two
+1199.tif:What is the location of the buildings in this picture?four corners
+12.tif:What is the theme of this picture?farmland
+12.tif:Does this picture contain an airplane?no
+12.tif:Does this picture contain trees?no
+12.tif:How many  in the picture?zero
+12.tif:What is the location of the  in this picture?i cannot see it
+120.tif:What is the theme of this picture?airport
+120.tif:Does this picture contain an airplane?yes
+120.tif:Does this picture contain trees?no
+120.tif:How many  in the picture?one
+120.tif:What is the location of the  in this picture?center
+1200.tif:What is the theme of this picture?intersection
+1200.tif:Does this picture contain an airplane?no
+1200.tif:Does this picture contain trees?yes
+1200.tif:How many  in the picture?zero
+1200.tif:What is the location of the intersection in this picture?center
+1201.tif:What is the theme of this picture?medium residential
+1201.tif:Does this picture contain an airplane?no
+1201.tif:Does this picture contain trees?yes
+1201.tif:How many buildings in the picture?thirteen
+1201.tif:What is the location of the buildings in this picture?everywhere
+1202.tif:What is the theme of this picture?medium residential
+1202.tif:Does this picture contain an airplane?no
+1202.tif:Does this picture contain trees?yes
+1202.tif:How many buildings in the picture?eleven
+1202.tif:What is the location of the buildings in this picture?everywhere
+1203.tif:What is the theme of this picture?medium residential
+1203.tif:Does this picture contain an airplane?no
+1203.tif:Does this picture contain trees?yes
+1203.tif:How many buildings in the picture?fourteen
+1203.tif:What is the location of the buildings in this picture?everywhere
+1204.tif:What is the theme of this picture?medium residential
+1204.tif:Does this picture contain an airplane?no
+1204.tif:Does this picture contain trees?yes
+1204.tif:How many buildings in the picture?eleven
+1204.tif:What is the location of the buildings in this picture?everywhere
+1205.tif:What is the theme of this picture?medium residential
+1205.tif:Does this picture contain an airplane?no
+1205.tif:Does this picture contain trees?yes
+1205.tif:How many buildings in the picture?eleven
+1205.tif:What is the location of the buildings in this picture?up and bottom
+1206.tif:What is the theme of this picture?medium residential
+1206.tif:Does this picture contain an airplane?no
+1206.tif:Does this picture contain trees?yes
+1206.tif:How many buildings in the picture?ten
+1206.tif:What is the location of the buildings in this picture?up and bottom
+1207.tif:What is the theme of this picture?medium residential
+1207.tif:Does this picture contain an airplane?no
+1207.tif:Does this picture contain trees?yes
+1207.tif:How many buildings in the picture?eight
+1207.tif:What is the location of the buildings in this picture?up and bottom
+1208.tif:What is the theme of this picture?medium residential
+1208.tif:Does this picture contain an airplane?no
+1208.tif:Does this picture contain trees?yes
+1208.tif:How many buildings in the picture?ten
+1208.tif:What is the location of the buildings in this picture?up and bottom
+1209.tif:What is the theme of this picture?medium residential
+1209.tif:Does this picture contain an airplane?no
+1209.tif:Does this picture contain trees?yes
+1209.tif:How many buildings in the picture?six
+1209.tif:What is the location of the buildings in this picture?lower right
+121.tif:What is the theme of this picture?airport
+121.tif:Does this picture contain an airplane?yes
+121.tif:Does this picture contain trees?no
+121.tif:How many  in the picture?two
+121.tif:What is the location of the  in this picture?center and up
+1210.tif:What is the theme of this picture?medium residential
+1210.tif:Does this picture contain an airplane?no
+1210.tif:Does this picture contain trees?yes
+1210.tif:How many buildings in the picture?nine
+1210.tif:What is the location of the buildings in this picture?up and bottom
+1211.tif:What is the theme of this picture?medium residential
+1211.tif:Does this picture contain an airplane?no
+1211.tif:Does this picture contain trees?yes
+1211.tif:How many buildings in the picture?eleven
+1211.tif:What is the location of the buildings in this picture?left and right
+1212.tif:What is the theme of this picture?medium residential
+1212.tif:Does this picture contain an airplane?no
+1212.tif:Does this picture contain trees?yes
+1212.tif:How many buildings in the picture?five
+1212.tif:What is the location of the  in this picture?i cannot see it
+1213.tif:What is the theme of this picture?medium residential
+1213.tif:Does this picture contain an airplane?no
+1213.tif:Does this picture contain trees?yes
+1213.tif:How many buildings in the picture?eight
+1213.tif:What is the location of the red buildings in this picture?upper right
+1214.tif:What is the theme of this picture?medium residential
+1214.tif:Does this picture contain an airplane?no
+1214.tif:Does this picture contain trees?yes
+1214.tif:How many buildings in the picture?seven
+1214.tif:What is the location of the buildings in this picture?diagonal
+1215.tif:What is the theme of this picture?medium residential
+1215.tif:Does this picture contain an airplane?no
+1215.tif:Does this picture contain trees?yes
+1215.tif:How many  in the picture?zero
+1215.tif:What is the location of the buildings in this picture?diagonal and lower right
+1216.tif:What is the theme of this picture?medium residential
+1216.tif:Does this picture contain an airplane?no
+1216.tif:Does this picture contain trees?yes
+1216.tif:How many  in the picture?zero
+1216.tif:What is the location of the buildings in this picture?diagonal
+1217.tif:What is the theme of this picture?medium residential
+1217.tif:Does this picture contain an airplane?no
+1217.tif:Does this picture contain trees?yes
+1217.tif:How many  in the picture?zero
+1217.tif:What is the location of the  in this picture?diagonal
+1218.tif:What is the theme of this picture?medium residential
+1218.tif:Does this picture contain an airplane?no
+1218.tif:Does this picture contain trees?yes
+1218.tif:How many  in the picture?zero
+1218.tif:What is the location of the  in this picture?diagonal
+1219.tif:What is the theme of this picture?medium residential
+1219.tif:Does this picture contain an airplane?no
+1219.tif:Does this picture contain trees?yes
+1219.tif:How many  in the picture?zero
+1219.tif:What is the location of the  in this picture?center and right
+122.tif:What is the theme of this picture?airport
+122.tif:Does this picture contain an airplane?yes
+122.tif:Does this picture contain trees?no
+122.tif:How many  in the picture?one
+122.tif:What is the location of the  in this picture?center
+1220.tif:What is the theme of this picture?medium residential
+1220.tif:Does this picture contain an airplane?no
+1220.tif:Does this picture contain trees?yes
+1220.tif:How many  in the picture?zero
+1220.tif:What is the location of the  in this picture?i cannot see it
+1221.tif:What is the theme of this picture?medium residential
+1221.tif:Does this picture contain an airplane?no
+1221.tif:Does this picture contain trees?yes
+1221.tif:How many buildings in the picture?nine
+1221.tif:What is the location of the buildings in this picture?upper left and lower right
+1222.tif:What is the theme of this picture?medium residential
+1222.tif:Does this picture contain an airplane?no
+1222.tif:Does this picture contain trees?yes
+1222.tif:How many buildings in the picture?six
+1222.tif:What is the location of the buildings in this picture?minor diagonal
+1223.tif:What is the theme of this picture?medium residential
+1223.tif:Does this picture contain an airplane?no
+1223.tif:Does this picture contain trees?yes
+1223.tif:How many buildings in the picture?eight
+1223.tif:What is the location of the buildings in this picture?main diagonal
+1224.tif:What is the theme of this picture?medium residential
+1224.tif:Does this picture contain an airplane?no
+1224.tif:Does this picture contain trees?yes
+1224.tif:How many cars in the picture?three
+1224.tif:What is the location of the red car in this picture?upper right
+1225.tif:What is the theme of this picture?medium residential
+1225.tif:Does this picture contain an airplane?no
+1225.tif:Does this picture contain trees?yes
+1225.tif:How many cars in the picture?two
+1225.tif:What is the location of the cars in this picture?upper left
+1226.tif:What is the theme of this picture?medium residential
+1226.tif:Does this picture contain an airplane?no
+1226.tif:Does this picture contain trees?yes
+1226.tif:How many buildings in the picture?nine
+1226.tif:What is the location of the curved road in this picture?lower left
+1227.tif:What is the theme of this picture?medium residential
+1227.tif:Does this picture contain an airplane?no
+1227.tif:Does this picture contain trees?yes
+1227.tif:How many buildings in the picture?six
+1227.tif:What is the location of the buildings in this picture?minor diagonal
+1228.tif:What is the theme of this picture?medium residential
+1228.tif:Does this picture contain an airplane?no
+1228.tif:Does this picture contain trees?yes
+1228.tif:How many buildings in the picture?eight
+1228.tif:What is the location of the buildings in this picture?minor diagonal
+1229.tif:What is the theme of this picture?medium residential
+1229.tif:Does this picture contain an airplane?no
+1229.tif:Does this picture contain trees?yes
+1229.tif:How many buildings in the picture?seven
+1229.tif:What is the location of the swimming pool in this picture?right
+123.tif:What is the theme of this picture?airport
+123.tif:Does this picture contain an airplane?yes
+123.tif:Does this picture contain trees?no
+123.tif:How many  in the picture?one
+123.tif:What is the location of the  in this picture?center
+1230.tif:What is the theme of this picture?medium residential
+1230.tif:Does this picture contain an airplane?no
+1230.tif:Does this picture contain trees?yes
+1230.tif:How many buildings in the picture?eight
+1230.tif:What is the location of the buildings in this picture?center
+1231.tif:What is the theme of this picture?medium residential
+1231.tif:Does this picture contain an airplane?no
+1231.tif:Does this picture contain trees?yes
+1231.tif:How many buildings in the picture?six
+1231.tif:What is the location of the buildings in this picture?center
+1232.tif:What is the theme of this picture?medium residential
+1232.tif:Does this picture contain an airplane?no
+1232.tif:Does this picture contain trees?yes
+1232.tif:How many buildings in the picture?eight
+1232.tif:What is the location of the buildings in this picture?center
+1233.tif:What is the theme of this picture?medium residential
+1233.tif:Does this picture contain an airplane?no
+1233.tif:Does this picture contain trees?yes
+1233.tif:How many buildings in the picture?eight
+1233.tif:What is the location of the buildings in this picture?center
+1234.tif:What is the theme of this picture?medium residential
+1234.tif:Does this picture contain an airplane?no
+1234.tif:Does this picture contain trees?yes
+1234.tif:How many buildings in the picture?five
+1234.tif:What is the location of the buildings in this picture?center
+1235.tif:What is the theme of this picture?medium residential
+1235.tif:Does this picture contain an airplane?no
+1235.tif:Does this picture contain trees?yes
+1235.tif:How many buildings in the picture?four
+1235.tif:What is the location of the buildings in this picture?center
+1236.tif:What is the theme of this picture?medium residential
+1236.tif:Does this picture contain an airplane?no
+1236.tif:Does this picture contain trees?yes
+1236.tif:How many buildings in the picture?three
+1236.tif:What is the location of the buildings in this picture?upper left
+1237.tif:What is the theme of this picture?medium residential
+1237.tif:Does this picture contain an airplane?no
+1237.tif:Does this picture contain trees?yes
+1237.tif:How many buildings in the picture?eight
+1237.tif:What is the location of the buildings in this picture?up and bottom
+1238.tif:What is the theme of this picture?medium residential
+1238.tif:Does this picture contain an airplane?no
+1238.tif:Does this picture contain trees?yes
+1238.tif:How many buildings in the picture?eight
+1238.tif:What is the location of the buildings in this picture?up and bottom
+1239.tif:What is the theme of this picture?medium residential
+1239.tif:Does this picture contain an airplane?no
+1239.tif:Does this picture contain trees?yes
+1239.tif:How many buildings in the picture?eight
+1239.tif:What is the location of the buildings in this picture?up and bottom
+124.tif:What is the theme of this picture?airport
+124.tif:Does this picture contain an airplane?yes
+124.tif:Does this picture contain trees?no
+124.tif:How many  in the picture?two
+124.tif:What is the location of the  in this picture?center
+1240.tif:What is the theme of this picture?medium residential
+1240.tif:Does this picture contain an airplane?no
+1240.tif:Does this picture contain trees?yes
+1240.tif:How many buildings in the picture?eight
+1240.tif:What is the location of the buildings in this picture?up and bottom
+1241.tif:What is the theme of this picture?medium residential
+1241.tif:Does this picture contain an airplane?no
+1241.tif:Does this picture contain trees?yes
+1241.tif:How many buildings in the picture?eight
+1241.tif:What is the location of the buildings in this picture?up and bottom
+1242.tif:What is the theme of this picture?medium residential
+1242.tif:Does this picture contain an airplane?no
+1242.tif:Does this picture contain trees?yes
+1242.tif:How many buildings in the picture?eight
+1242.tif:What is the location of the buildings in this picture?up and bottom
+1243.tif:What is the theme of this picture?medium residential
+1243.tif:Does this picture contain an airplane?no
+1243.tif:Does this picture contain trees?yes
+1243.tif:How many buildings in the picture?nine
+1243.tif:What is the location of the buildings in this picture?up and bottom
+1244.tif:What is the theme of this picture?medium residential
+1244.tif:Does this picture contain an airplane?no
+1244.tif:Does this picture contain trees?yes
+1244.tif:How many buildings in the picture?ten
+1244.tif:What is the location of the buildings in this picture?up and bottom
+1245.tif:What is the theme of this picture?medium residential
+1245.tif:Does this picture contain an airplane?no
+1245.tif:Does this picture contain trees?yes
+1245.tif:How many buildings in the picture?four
+1245.tif:What is the location of the buildings in this picture?lower left and upper right
+1246.tif:What is the theme of this picture?medium residential
+1246.tif:Does this picture contain an airplane?no
+1246.tif:Does this picture contain trees?yes
+1246.tif:How many buildings in the picture?six
+1246.tif:What is the location of the buildings in this picture?main diagonal
+1247.tif:What is the theme of this picture?medium residential
+1247.tif:Does this picture contain an airplane?no
+1247.tif:Does this picture contain trees?yes
+1247.tif:How many buildings in the picture?eight
+1247.tif:What is the location of the buildings in this picture?lower left and upper right
+1248.tif:What is the theme of this picture?medium residential
+1248.tif:Does this picture contain an airplane?no
+1248.tif:Does this picture contain trees?yes
+1248.tif:How many buildings in the picture?eight
+1248.tif:What is the location of the buildings in this picture?left and right
+1249.tif:What is the theme of this picture?medium residential
+1249.tif:Does this picture contain an airplane?no
+1249.tif:Does this picture contain trees?yes
+1249.tif:How many buildings in the picture?seven
+1249.tif:What is the location of the buildings in this picture?lower left and upper right
+125.tif:What is the theme of this picture?airport
+125.tif:Does this picture contain an airplane?yes
+125.tif:Does this picture contain trees?no
+125.tif:How many  in the picture?two
+125.tif:What is the location of the large plane in this picture?center
+1250.tif:What is the theme of this picture?medium residential
+1250.tif:Does this picture contain an airplane?no
+1250.tif:Does this picture contain trees?yes
+1250.tif:How many buildings in the picture?six
+1250.tif:What is the location of the buildings in this picture?left and right
+1251.tif:What is the theme of this picture?medium residential
+1251.tif:Does this picture contain an airplane?no
+1251.tif:Does this picture contain trees?yes
+1251.tif:How many buildings in the picture?eight
+1251.tif:What is the location of the buildings in this picture?up and bottom
+1252.tif:What is the theme of this picture?medium residential
+1252.tif:Does this picture contain an airplane?no
+1252.tif:Does this picture contain trees?yes
+1252.tif:How many buildings in the picture?eight
+1252.tif:What is the location of the buildings in this picture?up and bottom
+1253.tif:What is the theme of this picture?medium residential
+1253.tif:Does this picture contain an airplane?no
+1253.tif:Does this picture contain trees?yes
+1253.tif:How many buildings in the picture?eight
+1253.tif:What is the location of the buildings in this picture?up and bottom
+1254.tif:What is the theme of this picture?medium residential
+1254.tif:Does this picture contain an airplane?no
+1254.tif:Does this picture contain trees?yes
+1254.tif:How many buildings in the picture?six
+1254.tif:What is the location of the buildings in this picture?lower left and center
+1255.tif:What is the theme of this picture?medium residential
+1255.tif:Does this picture contain an airplane?no
+1255.tif:Does this picture contain trees?yes
+1255.tif:How many buildings in the picture?eight
+1255.tif:What is the location of the buildings in this picture?up and bottom
+1256.tif:What is the theme of this picture?medium residential
+1256.tif:Does this picture contain an airplane?no
+1256.tif:Does this picture contain trees?yes
+1256.tif:How many buildings in the picture?eight
+1256.tif:What is the location of the buildings in this picture?left and right
+1257.tif:What is the theme of this picture?medium residential
+1257.tif:Does this picture contain an airplane?no
+1257.tif:Does this picture contain trees?yes
+1257.tif:How many buildings in the picture?eleven
+1257.tif:What is the location of the buildings in this picture?left and right
+1258.tif:What is the theme of this picture?medium residential
+1258.tif:Does this picture contain an airplane?no
+1258.tif:Does this picture contain trees?yes
+1258.tif:How many buildings in the picture?nine
+1258.tif:What is the location of the buildings in this picture?left and right
+1259.tif:What is the theme of this picture?medium residential
+1259.tif:Does this picture contain an airplane?no
+1259.tif:Does this picture contain trees?yes
+1259.tif:How many buildings in the picture?seven
+1259.tif:What is the location of the buildings in this picture?center
+126.tif:What is the theme of this picture?airport
+126.tif:Does this picture contain an airplane?yes
+126.tif:Does this picture contain trees?no
+126.tif:How many  in the picture?one
+126.tif:What is the location of the  in this picture?center
+1260.tif:What is the theme of this picture?medium residential
+1260.tif:Does this picture contain an airplane?no
+1260.tif:Does this picture contain trees?yes
+1260.tif:How many buildings in the picture?ten
+1260.tif:What is the location of the buildings in this picture?left and right
+1261.tif:What is the theme of this picture?medium residential
+1261.tif:Does this picture contain an airplane?no
+1261.tif:Does this picture contain trees?yes
+1261.tif:How many buildings in the picture?nine
+1261.tif:What is the location of the buildings in this picture?up and bottom
+1262.tif:What is the theme of this picture?medium residential
+1262.tif:Does this picture contain an airplane?no
+1262.tif:Does this picture contain trees?yes
+1262.tif:How many  in the picture?zero
+1262.tif:What is the location of the  in this picture?i cannot see it
+1263.tif:What is the theme of this picture?medium residential
+1263.tif:Does this picture contain an airplane?no
+1263.tif:Does this picture contain trees?yes
+1263.tif:How many swimming pools in the picture?one
+1263.tif:What is the location of the swimming pool in this picture?upper left
+1264.tif:What is the theme of this picture?medium residential
+1264.tif:Does this picture contain an airplane?no
+1264.tif:Does this picture contain trees?yes
+1264.tif:How many buildings in the picture?nine
+1264.tif:What is the location of the buildings in this picture?top, left and right
+1265.tif:What is the theme of this picture?medium residential
+1265.tif:Does this picture contain an airplane?no
+1265.tif:Does this picture contain trees?yes
+1265.tif:How many buildings in the picture?eight
+1265.tif:What is the location of the road in this picture?right
+1266.tif:What is the theme of this picture?medium residential
+1266.tif:Does this picture contain an airplane?no
+1266.tif:Does this picture contain trees?yes
+1266.tif:How many buildings in the picture?eight
+1266.tif:What is the location of the road in this picture?right
+1267.tif:What is the theme of this picture?medium residential
+1267.tif:Does this picture contain an airplane?no
+1267.tif:Does this picture contain trees?yes
+1267.tif:How many buildings in the picture?nine
+1267.tif:What is the location of the buildings in this picture?left and right
+1268.tif:What is the theme of this picture?medium residential
+1268.tif:Does this picture contain an airplane?no
+1268.tif:Does this picture contain trees?yes
+1268.tif:How many buildings in the picture?ten
+1268.tif:What is the location of the buildings in this picture?up and bottom
+1269.tif:What is the theme of this picture?medium residential
+1269.tif:Does this picture contain an airplane?no
+1269.tif:Does this picture contain trees?yes
+1269.tif:How many buildings in the picture?ten
+1269.tif:What is the location of the buildings in this picture?up and bottom
+127.tif:What is the theme of this picture?airport
+127.tif:Does this picture contain an airplane?yes
+127.tif:Does this picture contain trees?no
+127.tif:How many  in the picture?one
+127.tif:What is the location of the  in this picture?center
+1270.tif:What is the theme of this picture?medium residential
+1270.tif:Does this picture contain an airplane?no
+1270.tif:Does this picture contain trees?yes
+1270.tif:How many buildings in the picture?four
+1270.tif:What is the location of the buildings in this picture?center and upper left
+1271.tif:What is the theme of this picture?medium residential
+1271.tif:Does this picture contain an airplane?no
+1271.tif:Does this picture contain trees?yes
+1271.tif:How many buildings in the picture?seven
+1271.tif:What is the location of the buildings in this picture?center and right
+1272.tif:What is the theme of this picture?medium residential
+1272.tif:Does this picture contain an airplane?no
+1272.tif:Does this picture contain trees?yes
+1272.tif:How many buildings in the picture?eight
+1272.tif:What is the location of the buildings in this picture?up and bottom
+1273.tif:What is the theme of this picture?medium residential
+1273.tif:Does this picture contain an airplane?no
+1273.tif:Does this picture contain trees?yes
+1273.tif:How many buildings in the picture?ten
+1273.tif:What is the location of the buildings in this picture?top and bottom
+1274.tif:What is the theme of this picture?medium residential
+1274.tif:Does this picture contain an airplane?no
+1274.tif:Does this picture contain trees?yes
+1274.tif:How many buildings in the picture?eight
+1274.tif:What is the location of the buildings in this picture?top and bottom
+1275.tif:What is the theme of this picture?medium residential
+1275.tif:Does this picture contain an airplane?no
+1275.tif:Does this picture contain trees?yes
+1275.tif:How many buildings in the picture?ten
+1275.tif:What is the location of the buildings in this picture?top and bottom
+1276.tif:What is the theme of this picture?medium residential
+1276.tif:Does this picture contain an airplane?no
+1276.tif:Does this picture contain trees?yes
+1276.tif:How many buildings in the picture?eight
+1276.tif:What is the location of the buildings in this picture?top and bottom
+1277.tif:What is the theme of this picture?medium residential
+1277.tif:Does this picture contain an airplane?no
+1277.tif:Does this picture contain trees?yes
+1277.tif:How many buildings in the picture?ten
+1277.tif:What is the location of the buildings in this picture?left and right
+1278.tif:What is the theme of this picture?medium residential
+1278.tif:Does this picture contain an airplane?no
+1278.tif:Does this picture contain trees?yes
+1278.tif:How many buildings in the picture?six
+1278.tif:What is the location of the buildings in this picture?top and bottom
+1279.tif:What is the theme of this picture?medium residential
+1279.tif:Does this picture contain an airplane?no
+1279.tif:Does this picture contain trees?yes
+1279.tif:How many buildings in the picture?six
+1279.tif:What is the location of the buildings in this picture?left and right
+128.tif:What is the theme of this picture?airport
+128.tif:Does this picture contain an airplane?yes
+128.tif:Does this picture contain trees?no
+128.tif:How many  in the picture?one
+128.tif:What is the location of the  in this picture?center
+1280.tif:What is the theme of this picture?medium residential
+1280.tif:Does this picture contain an airplane?no
+1280.tif:Does this picture contain trees?yes
+1280.tif:How many buildings in the picture?six
+1280.tif:What is the location of the buildings in this picture?left and right
+1281.tif:What is the theme of this picture?medium residential
+1281.tif:Does this picture contain an airplane?no
+1281.tif:Does this picture contain trees?yes
+1281.tif:How many buildings in the picture?five
+1281.tif:What is the location of the buildings in this picture?top and bottom
+1282.tif:What is the theme of this picture?medium residential
+1282.tif:Does this picture contain an airplane?no
+1282.tif:Does this picture contain trees?yes
+1282.tif:How many buildings in the picture?nine
+1282.tif:What is the location of the buildings in this picture?top and bottom
+1283.tif:What is the theme of this picture?medium residential
+1283.tif:Does this picture contain an airplane?no
+1283.tif:Does this picture contain trees?yes
+1283.tif:How many buildings in the picture?eleven
+1283.tif:What is the location of the buildings in this picture?center
+1284.tif:What is the theme of this picture?medium residential
+1284.tif:Does this picture contain an airplane?no
+1284.tif:Does this picture contain trees?yes
+1284.tif:How many buildings in the picture?seven
+1284.tif:What is the location of the buildings in this picture?left and right
+1285.tif:What is the theme of this picture?medium residential
+1285.tif:Does this picture contain an airplane?no
+1285.tif:Does this picture contain trees?yes
+1285.tif:How many buildings in the picture?ten
+1285.tif:What is the location of the buildings in this picture?top and bottom
+1286.tif:What is the theme of this picture?medium residential
+1286.tif:Does this picture contain an airplane?no
+1286.tif:Does this picture contain trees?yes
+1286.tif:How many buildings in the picture?ten
+1286.tif:What is the location of the buildings in this picture?top and bottom
+1287.tif:What is the theme of this picture?medium residential
+1287.tif:Does this picture contain an airplane?no
+1287.tif:Does this picture contain trees?yes
+1287.tif:How many swimming pool in the picture?two
+1287.tif:What is the location of the swimming pool in this picture?left and center
+1288.tif:What is the theme of this picture?medium residential
+1288.tif:Does this picture contain an airplane?no
+1288.tif:Does this picture contain trees?yes
+1288.tif:How many buildings in the picture?seven
+1288.tif:What is the location of the buildings in this picture?top and center
+1289.tif:What is the theme of this picture?medium residential
+1289.tif:Does this picture contain an airplane?no
+1289.tif:Does this picture contain trees?yes
+1289.tif:How many buildings in the picture?eight
+1289.tif:What is the location of the buildings in this picture?left and right
+129.tif:What is the theme of this picture?airport
+129.tif:Does this picture contain an airplane?yes
+129.tif:Does this picture contain trees?no
+129.tif:How many  in the picture?one
+129.tif:What is the location of the  in this picture?center
+1290.tif:What is the theme of this picture?medium residential
+1290.tif:Does this picture contain an airplane?no
+1290.tif:Does this picture contain trees?yes
+1290.tif:How many buildings in the picture?six
+1290.tif:What is the location of the buildings in this picture?left and right
+1291.tif:What is the theme of this picture?medium residential
+1291.tif:Does this picture contain an airplane?no
+1291.tif:Does this picture contain trees?yes
+1291.tif:How many buildings in the picture?eight
+1291.tif:What is the location of the buildings in this picture?top and bottom
+1292.tif:What is the theme of this picture?medium residential
+1292.tif:Does this picture contain an airplane?no
+1292.tif:Does this picture contain trees?yes
+1292.tif:How many buildings in the picture?eight
+1292.tif:What is the location of the buildings in this picture?top and bottom
+1293.tif:What is the theme of this picture?medium residential
+1293.tif:Does this picture contain an airplane?no
+1293.tif:Does this picture contain trees?yes
+1293.tif:How many buildings in the picture?four
+1293.tif:What is the location of the buildings in this picture?center
+1294.tif:What is the theme of this picture?medium residential
+1294.tif:Does this picture contain an airplane?no
+1294.tif:Does this picture contain trees?yes
+1294.tif:How many buildings in the picture?six
+1294.tif:What is the location of the buildings in this picture?left and right
+1295.tif:What is the theme of this picture?medium residential
+1295.tif:Does this picture contain an airplane?no
+1295.tif:Does this picture contain trees?yes
+1295.tif:How many buildings in the picture?five
+1295.tif:What is the location of the buildings in this picture?top and bottom
+1296.tif:What is the theme of this picture?medium residential
+1296.tif:Does this picture contain an airplane?no
+1296.tif:Does this picture contain trees?yes
+1296.tif:How many buildings in the picture?seven
+1296.tif:What is the location of the buildings in this picture?top and bottom
+1297.tif:What is the theme of this picture?medium residential
+1297.tif:Does this picture contain an airplane?no
+1297.tif:Does this picture contain trees?yes
+1297.tif:How many buildings in the picture?eight
+1297.tif:What is the location of the buildings in this picture?top and bottom
+1298.tif:What is the theme of this picture?medium residential
+1298.tif:Does this picture contain an airplane?no
+1298.tif:Does this picture contain trees?yes
+1298.tif:How many buildings in the picture?six
+1298.tif:What is the location of the buildings in this picture?main diagonal
+1299.tif:What is the theme of this picture?medium residential
+1299.tif:Does this picture contain an airplane?no
+1299.tif:Does this picture contain trees?yes
+1299.tif:How many buildings in the picture?six
+1299.tif:What is the location of the buildings in this picture?up and bottom
+13.tif:What is the theme of this picture?farmland
+13.tif:Does this picture contain an airplane?no
+13.tif:Does this picture contain trees?no
+13.tif:How many  in the picture?zero
+13.tif:What is the location of the  in this picture?i cannot see it
+130.tif:What is the theme of this picture?airport
+130.tif:Does this picture contain an airplane?yes
+130.tif:Does this picture contain trees?no
+130.tif:How many  in the picture?one
+130.tif:What is the location of the  in this picture?center
+1300.tif:What is the theme of this picture?medium residential
+1300.tif:Does this picture contain an airplane?no
+1300.tif:Does this picture contain trees?yes
+1300.tif:How many buildings in the picture?six
+1300.tif:What is the location of the buildings in this picture?up and bottom
+1301.tif:What is the theme of this picture?mobile home park
+1301.tif:Does this picture contain an airplane?no
+1301.tif:Does this picture contain trees?yes
+1301.tif:How many  in the picture?zero
+1301.tif:What is the location of the  in this picture?i cannot see it
+1302.tif:What is the theme of this picture?mobile home park
+1302.tif:Does this picture contain an airplane?no
+1302.tif:Does this picture contain trees?yes
+1302.tif:How many mobile homes in the picture?nineteen
+1302.tif:What is the location of the mobile homes in this picture?center
+1303.tif:What is the theme of this picture?mobile home park
+1303.tif:Does this picture contain an airplane?no
+1303.tif:Does this picture contain trees?yes
+1303.tif:How many yellow cars in the picture?one
+1303.tif:What is the location of the yellow car in this picture?lower left
+1304.tif:What is the theme of this picture?mobile home park
+1304.tif:Does this picture contain an airplane?no
+1304.tif:Does this picture contain trees?yes
+1304.tif:How many mobile homes in the picture?twenty
+1304.tif:What is the location of the mobile homes in this picture?up, center and bottom
+1305.tif:What is the theme of this picture?mobile home park
+1305.tif:Does this picture contain an airplane?no
+1305.tif:Does this picture contain trees?yes
+1305.tif:How many mobile homes in the picture?fifteen
+1305.tif:What is the location of the mobile homes in this picture?up, center and bottom
+1306.tif:What is the theme of this picture?mobile home park
+1306.tif:Does this picture contain an airplane?no
+1306.tif:Does this picture contain trees?yes
+1306.tif:How many red cars in the picture?five
+1306.tif:What is the location of the mobile homes in this picture?up, center and bottom
+1307.tif:What is the theme of this picture?mobile home park
+1307.tif:Does this picture contain an airplane?no
+1307.tif:Does this picture contain trees?yes
+1307.tif:How many red cars in the picture?three
+1307.tif:What is the location of the mobile homes in this picture?up, center and bottom
+1308.tif:What is the theme of this picture?mobile home park
+1308.tif:Does this picture contain an airplane?no
+1308.tif:Does this picture contain trees?yes
+1308.tif:How many mobile homes in the picture?twenty
+1308.tif:What is the location of the mobile homes in this picture?left, center and right
+1309.tif:What is the theme of this picture?mobile home park
+1309.tif:Does this picture contain an airplane?no
+1309.tif:Does this picture contain trees?yes
+1309.tif:How many mobile homes in the picture?nineteen
+1309.tif:What is the location of the mobile homes in this picture?left and right
+131.tif:What is the theme of this picture?airport
+131.tif:Does this picture contain an airplane?yes
+131.tif:Does this picture contain trees?no
+131.tif:How many  in the picture?one
+131.tif:What is the location of the  in this picture?center
+1310.tif:What is the theme of this picture?mobile home park
+1310.tif:Does this picture contain an airplane?no
+1310.tif:Does this picture contain trees?yes
+1310.tif:How many mobile homes in the picture?twenty
+1310.tif:What is the location of the mobile homes in this picture?left and right
+1311.tif:What is the theme of this picture?mobile home park
+1311.tif:Does this picture contain an airplane?no
+1311.tif:Does this picture contain trees?yes
+1311.tif:How many mobile homes in the picture?fifteen
+1311.tif:What is the location of the mobile homes in this picture?left and right
+1312.tif:What is the theme of this picture?mobile home park
+1312.tif:Does this picture contain an airplane?no
+1312.tif:Does this picture contain trees?yes
+1312.tif:How many mobile homes in the picture?fifteen
+1312.tif:What is the location of the mobile homes in this picture?left, center and right
+1313.tif:What is the theme of this picture?mobile home park
+1313.tif:Does this picture contain an airplane?no
+1313.tif:Does this picture contain trees?yes
+1313.tif:How many  in the picture?zero
+1313.tif:What is the location of the  in this picture?i cannot see it
+1314.tif:What is the theme of this picture?mobile home park
+1314.tif:Does this picture contain an airplane?no
+1314.tif:Does this picture contain trees?yes
+1314.tif:How many mobile homes in the picture?sixteen
+1314.tif:What is the location of the mobile homes in this picture?left, center and right
+1315.tif:What is the theme of this picture?mobile home park
+1315.tif:Does this picture contain an airplane?no
+1315.tif:Does this picture contain trees?yes
+1315.tif:How many mobile homes in the picture?eleven
+1315.tif:What is the location of the mobile homes in this picture?left and right
+1316.tif:What is the theme of this picture?mobile home park
+1316.tif:Does this picture contain an airplane?no
+1316.tif:Does this picture contain trees?yes
+1316.tif:How many mobile homes in the picture?twenty-three
+1316.tif:What is the location of the mobile homes in this picture?left, center and right
+1317.tif:What is the theme of this picture?mobile home park
+1317.tif:Does this picture contain an airplane?no
+1317.tif:Does this picture contain trees?yes
+1317.tif:How many mobile homes in the picture?twenty-four
+1317.tif:What is the location of the mobile homes in this picture?left, center and right
+1318.tif:What is the theme of this picture?mobile home park
+1318.tif:Does this picture contain an airplane?no
+1318.tif:Does this picture contain trees?yes
+1318.tif:How many  in the picture?zero
+1318.tif:What is the location of the  in this picture?i cannot see it
+1319.tif:What is the theme of this picture?mobile home park
+1319.tif:Does this picture contain an airplane?no
+1319.tif:Does this picture contain trees?yes
+1319.tif:How many mobile homes in the picture?seventeen
+1319.tif:What is the location of the mobile homes in this picture?left, center and right
+132.tif:What is the theme of this picture?airport
+132.tif:Does this picture contain an airplane?yes
+132.tif:Does this picture contain trees?no
+132.tif:How many  in the picture?one
+132.tif:What is the location of the  in this picture?center
+1320.tif:What is the theme of this picture?mobile home park
+1320.tif:Does this picture contain an airplane?no
+1320.tif:Does this picture contain trees?yes
+1320.tif:How many mobile homes in the picture?fifteen
+1320.tif:What is the location of the mobile homes in this picture?left, center and right
+1321.tif:What is the theme of this picture?mobile home park
+1321.tif:Does this picture contain an airplane?no
+1321.tif:Does this picture contain trees?yes
+1321.tif:How many mobile home in the picture?fifteen
+1321.tif:What is the location of the mobile home in this picture?up and bottom
+1322.tif:What is the theme of this picture?mobile home park
+1322.tif:Does this picture contain an airplane?no
+1322.tif:Does this picture contain trees?yes
+1322.tif:How many mobile homes in the picture?fifteen
+1322.tif:What is the location of the mobile homes in this picture?up and bottom
+1323.tif:What is the theme of this picture?mobile home park
+1323.tif:Does this picture contain an airplane?no
+1323.tif:Does this picture contain trees?yes
+1323.tif:How many mobile homes in the picture?twelve
+1323.tif:What is the location of the mobile homes in this picture?left and right
+1324.tif:What is the theme of this picture?mobile home park
+1324.tif:Does this picture contain an airplane?no
+1324.tif:Does this picture contain trees?yes
+1324.tif:How many mobile homes in the picture?fifteen
+1324.tif:What is the location of the mobile homes in this picture?left and right
+1325.tif:What is the theme of this picture?mobile home park
+1325.tif:Does this picture contain an airplane?no
+1325.tif:Does this picture contain trees?yes
+1325.tif:How many mobile homes in the picture?fifteen
+1325.tif:What is the location of the mobile homes in this picture?up and bottom
+1326.tif:What is the theme of this picture?mobile home park
+1326.tif:Does this picture contain an airplane?no
+1326.tif:Does this picture contain trees?yes
+1326.tif:How many mobile homes in the picture?twenty-four
+1326.tif:What is the location of the mobile homes in this picture?center and upper left
+1327.tif:What is the theme of this picture?mobile home park
+1327.tif:Does this picture contain an airplane?no
+1327.tif:Does this picture contain trees?yes
+1327.tif:How many mobile homes in the picture?twenty-seven
+1327.tif:What is the location of the mobile homes in this picture?left and right
+1328.tif:What is the theme of this picture?mobile home park
+1328.tif:Does this picture contain an airplane?no
+1328.tif:Does this picture contain trees?yes
+1328.tif:How many mobile homes in the picture?seventeen
+1328.tif:What is the location of the mobile homes in this picture?up and bottom
+1329.tif:What is the theme of this picture?mobile home park
+1329.tif:Does this picture contain an airplane?no
+1329.tif:Does this picture contain trees?yes
+1329.tif:How many mobile homes in the picture?twenty-three
+1329.tif:What is the location of the mobile homes in this picture?up and bottom
+133.tif:What is the theme of this picture?airport
+133.tif:Does this picture contain an airplane?yes
+133.tif:Does this picture contain trees?no
+133.tif:How many  in the picture?one
+133.tif:What is the location of the  in this picture?center
+1330.tif:What is the theme of this picture?mobile home park
+1330.tif:Does this picture contain an airplane?no
+1330.tif:Does this picture contain trees?yes
+1330.tif:How many mobile homes in the picture?sixteen
+1330.tif:What is the location of the mobile homes in this picture?up, center and bottom
+1331.tif:What is the theme of this picture?mobile home park
+1331.tif:Does this picture contain an airplane?no
+1331.tif:Does this picture contain trees?yes
+1331.tif:How many  in the picture?zero
+1331.tif:What is the location of the mobile homes in this picture?left, center and bottom
+1332.tif:What is the theme of this picture?mobile home park
+1332.tif:Does this picture contain an airplane?no
+1332.tif:Does this picture contain trees?yes
+1332.tif:How many  in the picture?zero
+1332.tif:What is the location of the mobile homes in this picture?left, center and right
+1333.tif:What is the theme of this picture?mobile home park
+1333.tif:Does this picture contain an airplane?no
+1333.tif:Does this picture contain trees?yes
+1333.tif:How many  in the picture?zero
+1333.tif:What is the location of the mobile homes in this picture?left, center and right
+1334.tif:What is the theme of this picture?mobile home park
+1334.tif:Does this picture contain an airplane?no
+1334.tif:Does this picture contain trees?yes
+1334.tif:How many  in the picture?zero
+1334.tif:What is the location of the mobile homes in this picture?up and bottom
+1335.tif:What is the theme of this picture?mobile home park
+1335.tif:Does this picture contain an airplane?no
+1335.tif:Does this picture contain trees?yes
+1335.tif:How many  in the picture?zero
+1335.tif:What is the location of the  in this picture?i cannot see it
+1336.tif:What is the theme of this picture?mobile home park
+1336.tif:Does this picture contain an airplane?no
+1336.tif:Does this picture contain trees?yes
+1336.tif:How many  in the picture?zero
+1336.tif:What is the location of the mobile homes in this picture?left and right
+1337.tif:What is the theme of this picture?mobile home park
+1337.tif:Does this picture contain an airplane?no
+1337.tif:Does this picture contain trees?yes
+1337.tif:How many  in the picture?zero
+1337.tif:What is the location of the mobile homes in this picture?up, center and bottom
+1338.tif:What is the theme of this picture?mobile home park
+1338.tif:Does this picture contain an airplane?no
+1338.tif:Does this picture contain trees?yes
+1338.tif:How many  in the picture?zero
+1338.tif:What is the location of the mobile homes in this picture?up, center and bottom
+1339.tif:What is the theme of this picture?mobile home park
+1339.tif:Does this picture contain an airplane?no
+1339.tif:Does this picture contain trees?yes
+1339.tif:How many  in the picture?zero
+1339.tif:What is the location of the mobile homes in this picture?up, center and bottom
+134.tif:What is the theme of this picture?airport
+134.tif:Does this picture contain an airplane?yes
+134.tif:Does this picture contain trees?no
+134.tif:How many  in the picture?three
+134.tif:What is the location of the largest plane in this picture?lower left
+1340.tif:What is the theme of this picture?mobile home park
+1340.tif:Does this picture contain an airplane?no
+1340.tif:Does this picture contain trees?yes
+1340.tif:How many  in the picture?zero
+1340.tif:What is the location of the mobile homes in this picture?up, center and bottom
+1341.tif:What is the theme of this picture?mobile home park
+1341.tif:Does this picture contain an airplane?no
+1341.tif:Does this picture contain trees?yes
+1341.tif:How many  in the picture?zero
+1341.tif:What is the location of the mobile homes in this picture?up, center and bottom
+1342.tif:What is the theme of this picture?mobile home park
+1342.tif:Does this picture contain an airplane?no
+1342.tif:Does this picture contain trees?yes
+1342.tif:How many  in the picture?zero
+1342.tif:What is the location of the  in this picture?i cannot see it
+1343.tif:What is the theme of this picture?mobile home park
+1343.tif:Does this picture contain an airplane?no
+1343.tif:Does this picture contain trees?yes
+1343.tif:How many  in the picture?zero
+1343.tif:What is the location of the  in this picture?i cannot see it
+1344.tif:What is the theme of this picture?mobile home park
+1344.tif:Does this picture contain an airplane?no
+1344.tif:Does this picture contain trees?yes
+1344.tif:How many  in the picture?zero
+1344.tif:What is the location of the  in this picture?i cannot see it
+1345.tif:What is the theme of this picture?mobile home park
+1345.tif:Does this picture contain an airplane?no
+1345.tif:Does this picture contain trees?yes
+1345.tif:How many  in the picture?zero
+1345.tif:What is the location of the  in this picture?i cannot see it
+1346.tif:What is the theme of this picture?mobile home park
+1346.tif:Does this picture contain an airplane?no
+1346.tif:Does this picture contain trees?yes
+1346.tif:How many  in the picture?zero
+1346.tif:What is the location of the  in this picture?i cannot see it
+1347.tif:What is the theme of this picture?mobile home park
+1347.tif:Does this picture contain an airplane?no
+1347.tif:Does this picture contain trees?yes
+1347.tif:How many  in the picture?zero
+1347.tif:What is the location of the  in this picture?i cannot see it
+1348.tif:What is the theme of this picture?mobile home park
+1348.tif:Does this picture contain an airplane?no
+1348.tif:Does this picture contain trees?yes
+1348.tif:How many  in the picture?zero
+1348.tif:What is the location of the  in this picture?i cannot see it
+1349.tif:What is the theme of this picture?mobile home park
+1349.tif:Does this picture contain an airplane?no
+1349.tif:Does this picture contain trees?yes
+1349.tif:How many  in the picture?zero
+1349.tif:What is the location of the mobile homes in this picture?up and bottom
+135.tif:What is the theme of this picture?airport
+135.tif:Does this picture contain an airplane?yes
+135.tif:Does this picture contain trees?no
+135.tif:How many  in the picture?three
+135.tif:What is the location of the  in this picture?minor diagonal
+1350.tif:What is the theme of this picture?mobile home park
+1350.tif:Does this picture contain an airplane?no
+1350.tif:Does this picture contain trees?yes
+1350.tif:How many  in the picture?zero
+1350.tif:What is the location of the mobile homes in this picture?up and bottom
+1351.tif:What is the theme of this picture?mobile home park
+1351.tif:Does this picture contain an airplane?no
+1351.tif:Does this picture contain trees?yes
+1351.tif:How many mobile homes in the picture?twenty
+1351.tif:What is the location of the mobile homes in this picture?up and bottom
+1352.tif:What is the theme of this picture?mobile home park
+1352.tif:Does this picture contain an airplane?no
+1352.tif:Does this picture contain trees?yes
+1352.tif:How many mobile homes in the picture?twenty-two
+1352.tif:What is the location of the mobile homes in this picture?up and bottom
+1353.tif:What is the theme of this picture?mobile home park
+1353.tif:Does this picture contain an airplane?no
+1353.tif:Does this picture contain trees?yes
+1353.tif:How many  in the picture?zero
+1353.tif:What is the location of the red cars in this picture?lower left
+1354.tif:What is the theme of this picture?mobile home park
+1354.tif:Does this picture contain an airplane?no
+1354.tif:Does this picture contain trees?yes
+1354.tif:How many red cars in the picture?five
+1354.tif:What is the location of the mobile homes in this picture?center and lower right
+1355.tif:What is the theme of this picture?mobile home park
+1355.tif:Does this picture contain an airplane?no
+1355.tif:Does this picture contain trees?yes
+1355.tif:How many mobile homes in the picture?fifteen
+1355.tif:What is the location of the mobile homes in this picture?up and bottom
+1356.tif:What is the theme of this picture?mobile home park
+1356.tif:Does this picture contain an airplane?no
+1356.tif:Does this picture contain trees?yes
+1356.tif:How many mobile homes in the picture?twenty
+1356.tif:What is the location of the mobile homes in this picture?up and bottom
+1357.tif:What is the theme of this picture?mobile home park
+1357.tif:Does this picture contain an airplane?no
+1357.tif:Does this picture contain trees?yes
+1357.tif:How many  in the picture?zero
+1357.tif:What is the location of the mobile homes in this picture?up and bottom
+1358.tif:What is the theme of this picture?mobile home park
+1358.tif:Does this picture contain an airplane?no
+1358.tif:Does this picture contain trees?yes
+1358.tif:How many  in the picture?zero
+1358.tif:What is the location of the mobile homes in this picture?left, center and right
+1359.tif:What is the theme of this picture?mobile home park
+1359.tif:Does this picture contain an airplane?no
+1359.tif:Does this picture contain trees?yes
+1359.tif:How many mobile homes in the picture?eighteen
+1359.tif:What is the location of the mobile homes in this picture?up and bottom
+136.tif:What is the theme of this picture?airport
+136.tif:Does this picture contain an airplane?yes
+136.tif:Does this picture contain trees?no
+136.tif:How many  in the picture?one
+136.tif:What is the location of the  in this picture?center
+1360.tif:What is the theme of this picture?mobile home park
+1360.tif:Does this picture contain an airplane?no
+1360.tif:Does this picture contain trees?yes
+1360.tif:How many  in the picture?zero
+1360.tif:What is the location of the  in this picture?i cannot see it
+1361.tif:What is the theme of this picture?mobile home park
+1361.tif:Does this picture contain an airplane?no
+1361.tif:Does this picture contain trees?yes
+1361.tif:How many mobile homes in the picture?twenty-three
+1361.tif:What is the location of the mobile homes in this picture?left and right
+1362.tif:What is the theme of this picture?mobile home park
+1362.tif:Does this picture contain an airplane?no
+1362.tif:Does this picture contain trees?yes
+1362.tif:How many  in the picture?zero
+1362.tif:What is the location of the mobile homes in this picture?up and bottom
+1363.tif:What is the theme of this picture?mobile home park
+1363.tif:Does this picture contain an airplane?no
+1363.tif:Does this picture contain trees?yes
+1363.tif:How many mobile homes in the picture?twenty-three
+1363.tif:What is the location of the mobile homes in this picture?up and bottom
+1364.tif:What is the theme of this picture?mobile home park
+1364.tif:Does this picture contain an airplane?no
+1364.tif:Does this picture contain trees?yes
+1364.tif:How many mobile homes in the picture?eighteen
+1364.tif:What is the location of the mobile homes in this picture?up and bottom
+1365.tif:What is the theme of this picture?mobile home park
+1365.tif:Does this picture contain an airplane?no
+1365.tif:Does this picture contain trees?yes
+1365.tif:How many mobile homes in the picture?eighteen
+1365.tif:What is the location of the mobile homes in this picture?up, center and bottom
+1366.tif:What is the theme of this picture?mobile home park
+1366.tif:Does this picture contain an airplane?no
+1366.tif:Does this picture contain trees?yes
+1366.tif:How many mobile homes in the picture?twenty
+1366.tif:What is the location of the mobile homes in this picture?up, center and bottom
+1367.tif:What is the theme of this picture?mobile home park
+1367.tif:Does this picture contain an airplane?no
+1367.tif:Does this picture contain trees?yes
+1367.tif:How many mobile homes in the picture?fifteen
+1367.tif:What is the location of the mobile homes in this picture?up, center and bottom
+1368.tif:What is the theme of this picture?mobile home park
+1368.tif:Does this picture contain an airplane?no
+1368.tif:Does this picture contain trees?yes
+1368.tif:How many mobile homes in the picture?fifteen
+1368.tif:What is the location of the mobile homes in this picture?up, center and bottom
+1369.tif:What is the theme of this picture?mobile home park
+1369.tif:Does this picture contain an airplane?no
+1369.tif:Does this picture contain trees?yes
+1369.tif:How many  in the picture?zero
+1369.tif:What is the location of the  in this picture?i cannot see it
+137.tif:What is the theme of this picture?airport
+137.tif:Does this picture contain an airplane?yes
+137.tif:Does this picture contain trees?no
+137.tif:How many  in the picture?six
+137.tif:What is the location of the large plane in this picture?upper right
+1370.tif:What is the theme of this picture?mobile home park
+1370.tif:Does this picture contain an airplane?no
+1370.tif:Does this picture contain trees?yes
+1370.tif:How many  in the picture?zero
+1370.tif:What is the location of the  in this picture?i cannot see it
+1371.tif:What is the theme of this picture?mobile home park
+1371.tif:Does this picture contain an airplane?no
+1371.tif:Does this picture contain trees?yes
+1371.tif:How many  in the picture?zero
+1371.tif:What is the location of the  in this picture?i cannot see it
+1372.tif:What is the theme of this picture?mobile home park
+1372.tif:Does this picture contain an airplane?no
+1372.tif:Does this picture contain trees?yes
+1372.tif:How many mobile homes in the picture?eleven
+1372.tif:What is the location of the mobile homes in this picture?right
+1373.tif:What is the theme of this picture?mobile home park
+1373.tif:Does this picture contain an airplane?no
+1373.tif:Does this picture contain trees?yes
+1373.tif:How many mobile homes in the picture?eight
+1373.tif:What is the location of the mobile homes in this picture?minor diagonal
+1374.tif:What is the theme of this picture?mobile home park
+1374.tif:Does this picture contain an airplane?no
+1374.tif:Does this picture contain trees?yes
+1374.tif:How many mobile homes in the picture?twelve
+1374.tif:What is the location of the  in this picture?i cannot see it
+1375.tif:What is the theme of this picture?mobile home park
+1375.tif:Does this picture contain an airplane?no
+1375.tif:Does this picture contain trees?yes
+1375.tif:How many mobile homes in the picture?fifteen
+1375.tif:What is the location of the mobile homes in this picture?center and lower right
+1376.tif:What is the theme of this picture?mobile home park
+1376.tif:Does this picture contain an airplane?no
+1376.tif:Does this picture contain trees?yes
+1376.tif:How many mobile homes in the picture?fifteen
+1376.tif:What is the location of the mobile homes in this picture?up and left
+1377.tif:What is the theme of this picture?mobile home park
+1377.tif:Does this picture contain an airplane?no
+1377.tif:Does this picture contain trees?yes
+1377.tif:How many mobile homes in the picture?twenty
+1377.tif:What is the location of the mobile homes in this picture?left, center and right
+1378.tif:What is the theme of this picture?mobile home park
+1378.tif:Does this picture contain an airplane?no
+1378.tif:Does this picture contain trees?yes
+1378.tif:How many mobile homes in the picture?nineteen
+1378.tif:What is the location of the mobile homes in this picture?main diagonal
+1379.tif:What is the theme of this picture?mobile home park
+1379.tif:Does this picture contain an airplane?no
+1379.tif:Does this picture contain trees?yes
+1379.tif:How many  in the picture?zero
+1379.tif:What is the location of the red car in this picture?right
+138.tif:What is the theme of this picture?airport
+138.tif:Does this picture contain an airplane?yes
+138.tif:Does this picture contain trees?no
+138.tif:How many  in the picture?one
+138.tif:What is the location of the  in this picture?center
+1380.tif:What is the theme of this picture?mobile home park
+1380.tif:Does this picture contain an airplane?no
+1380.tif:Does this picture contain trees?yes
+1380.tif:How many mobile homes in the picture?thirty
+1380.tif:What is the location of the mobile homes in this picture?upper left and right
+1381.tif:What is the theme of this picture?mobile home park
+1381.tif:Does this picture contain an airplane?no
+1381.tif:Does this picture contain trees?yes
+1381.tif:How many mobile homes in the picture?thirty
+1381.tif:What is the location of the mobile homes in this picture?up, center and bottom
+1382.tif:What is the theme of this picture?mobile home park
+1382.tif:Does this picture contain an airplane?no
+1382.tif:Does this picture contain trees?yes
+1382.tif:How many mobile homes in the picture?thirty-three
+1382.tif:What is the location of the mobile homes in this picture?up, center and bottom
+1383.tif:What is the theme of this picture?mobile home park
+1383.tif:Does this picture contain an airplane?no
+1383.tif:Does this picture contain trees?yes
+1383.tif:How many mobile homes in the picture?nineteen
+1383.tif:What is the location of the mobile homes in this picture?everywhere
+1384.tif:What is the theme of this picture?mobile home park
+1384.tif:Does this picture contain an airplane?no
+1384.tif:Does this picture contain trees?yes
+1384.tif:How many mobile homes in the picture?sixteen
+1384.tif:What is the location of the mobile homes in this picture?left and right
+1385.tif:What is the theme of this picture?mobile home park
+1385.tif:Does this picture contain an airplane?no
+1385.tif:Does this picture contain trees?yes
+1385.tif:How many mobile homes in the picture?nineteen
+1385.tif:What is the location of the mobile homes in this picture?everywhere
+1386.tif:What is the theme of this picture?mobile home park
+1386.tif:Does this picture contain an airplane?no
+1386.tif:Does this picture contain trees?yes
+1386.tif:How many mobile homes in the picture?twenty-one
+1386.tif:What is the location of the mobile homes in this picture?left and right
+1387.tif:What is the theme of this picture?mobile home park
+1387.tif:Does this picture contain an airplane?no
+1387.tif:Does this picture contain trees?yes
+1387.tif:How many mobile homes in the picture?twenty-two
+1387.tif:What is the location of the mobile homes in this picture?left, center and right
+1388.tif:What is the theme of this picture?mobile home park
+1388.tif:Does this picture contain an airplane?no
+1388.tif:Does this picture contain trees?yes
+1388.tif:How many mobile homes in the picture?eighteen
+1388.tif:What is the location of the mobile homes in this picture?everywhere 
+1389.tif:What is the theme of this picture?mobile home park
+1389.tif:Does this picture contain an airplane?no
+1389.tif:Does this picture contain trees?yes
+1389.tif:How many mobile homes in the picture?seventeen
+1389.tif:What is the location of the mobile homes in this picture?everywhere
+139.tif:What is the theme of this picture?airport
+139.tif:Does this picture contain an airplane?yes
+139.tif:Does this picture contain trees?no
+139.tif:How many  in the picture?seven
+139.tif:What is the location of the  in this picture?up, left and right
+1390.tif:What is the theme of this picture?mobile home park
+1390.tif:Does this picture contain an airplane?no
+1390.tif:Does this picture contain trees?yes
+1390.tif:How many mobile homes in the picture?thirteen
+1390.tif:What is the location of the mobile homes in this picture?everywhere
+1391.tif:What is the theme of this picture?mobile home park
+1391.tif:Does this picture contain an airplane?no
+1391.tif:Does this picture contain trees?yes
+1391.tif:How many mobile homes in the picture?thirteen
+1391.tif:What is the location of the mobile homes in this picture?everywhere 
+1392.tif:What is the theme of this picture?mobile home park
+1392.tif:Does this picture contain an airplane?no
+1392.tif:Does this picture contain trees?yes
+1392.tif:How many mobile homes in the picture?nineteen
+1392.tif:What is the location of the mobile homes in this picture?left, center and right
+1393.tif:What is the theme of this picture?mobile home park
+1393.tif:Does this picture contain an airplane?no
+1393.tif:Does this picture contain trees?yes
+1393.tif:How many mobile homes in the picture?sixteen
+1393.tif:What is the location of the mobile homes in this picture?everywhere
+1394.tif:What is the theme of this picture?mobile home park
+1394.tif:Does this picture contain an airplane?no
+1394.tif:Does this picture contain trees?yes
+1394.tif:How many mobile homes in the picture?seventeen
+1394.tif:What is the location of the mobile homes in this picture?up, center and bottom 
+1395.tif:What is the theme of this picture?mobile home park
+1395.tif:Does this picture contain an airplane?no
+1395.tif:Does this picture contain trees?yes
+1395.tif:How many  in the picture?zero
+1395.tif:What is the location of the mobile homes in this picture?up, center and bottom 
+1396.tif:What is the theme of this picture?mobile home park
+1396.tif:Does this picture contain an airplane?no
+1396.tif:Does this picture contain trees?yes
+1396.tif:How many mobile homes in the picture?twenty-eight
+1396.tif:What is the location of the mobile homes in this picture?up, center and bottom 
+1397.tif:What is the theme of this picture?mobile home park
+1397.tif:Does this picture contain an airplane?no
+1397.tif:Does this picture contain trees?yes
+1397.tif:How many mobile homes in the picture?nineteen
+1397.tif:What is the location of the mobile homes in this picture?everywhere
+1398.tif:What is the theme of this picture?mobile home park
+1398.tif:Does this picture contain an airplane?no
+1398.tif:Does this picture contain trees?yes
+1398.tif:How many  in the picture?zero
+1398.tif:What is the location of the  in this picture?i cannot see it 
+1399.tif:What is the theme of this picture?mobile home park
+1399.tif:Does this picture contain an airplane?no
+1399.tif:Does this picture contain trees?yes
+1399.tif:How many  in the picture?zero
+1399.tif:What is the location of the  in this picture?i cannot see it 
+14.tif:What is the theme of this picture?farmland
+14.tif:Does this picture contain an airplane?no
+14.tif:Does this picture contain trees?no
+14.tif:How many  in the picture?zero
+14.tif:What is the location of the  in this picture?i cannot see it
+140.tif:What is the theme of this picture?airport
+140.tif:Does this picture contain an airplane?yes
+140.tif:Does this picture contain trees?no
+140.tif:How many  in the picture?four
+140.tif:What is the location of the  in this picture?center
+1400.tif:What is the theme of this picture?mobile home park
+1400.tif:Does this picture contain an airplane?no
+1400.tif:Does this picture contain trees?yes
+1400.tif:How many  in the picture?zero
+1400.tif:What is the location of the mobile homes in this picture?left, center and right
+1401.tif:What is the theme of this picture?overpass
+1401.tif:Does this picture contain an airplane?no
+1401.tif:Does this picture contain trees?yes
+1401.tif:How many cars in the picture?three
+1401.tif:What is the location of the cross point in this picture?center
+1402.tif:What is the theme of this picture?overpass
+1402.tif:Does this picture contain an airplane?no
+1402.tif:Does this picture contain trees?yes
+1402.tif:How many cars in the picture?seven
+1402.tif:What is the location of the cross point in this picture?center
+1403.tif:What is the theme of this picture?overpass
+1403.tif:Does this picture contain an airplane?no
+1403.tif:Does this picture contain trees?no
+1403.tif:How many cars in the picture?seven
+1403.tif:What is the location of the cross point in this picture?left and right
+1404.tif:What is the theme of this picture?overpass
+1404.tif:Does this picture contain an airplane?no
+1404.tif:Does this picture contain trees?no
+1404.tif:How many cars in the picture?thirty-five
+1404.tif:What is the location of the cross point in this picture?center
+1405.tif:What is the theme of this picture?overpass
+1405.tif:Does this picture contain an airplane?no
+1405.tif:Does this picture contain trees?no
+1405.tif:How many cars in the picture?eleven
+1405.tif:What is the location of the cross point in this picture?left and right
+1406.tif:What is the theme of this picture?overpass
+1406.tif:Does this picture contain an airplane?no
+1406.tif:Does this picture contain trees?no
+1406.tif:How many cars in the picture?four
+1406.tif:What is the location of the cross point in this picture?up and center
+1407.tif:What is the theme of this picture?overpass
+1407.tif:Does this picture contain an airplane?no
+1407.tif:Does this picture contain trees?yes
+1407.tif:How many cars in the picture?four
+1407.tif:What is the location of the cross point in this picture?left and right
+1408.tif:What is the theme of this picture?overpass
+1408.tif:Does this picture contain an airplane?no
+1408.tif:Does this picture contain trees?no
+1408.tif:How many cars in the picture?four
+1408.tif:What is the location of the cross point in this picture?up and bottom
+1409.tif:What is the theme of this picture?overpass
+1409.tif:Does this picture contain an airplane?no
+1409.tif:Does this picture contain trees?no
+1409.tif:How many cars in the picture?one
+1409.tif:What is the location of the cross point in this picture?center
+141.tif:What is the theme of this picture?airport
+141.tif:Does this picture contain an airplane?yes
+141.tif:Does this picture contain trees?no
+141.tif:How many  in the picture?two
+141.tif:What is the location of the  in this picture?upper left and lower right
+1410.tif:What is the theme of this picture?overpass
+1410.tif:Does this picture contain an airplane?no
+1410.tif:Does this picture contain trees?no
+1410.tif:How many cars in the picture?five
+1410.tif:What is the location of the cross point in this picture?center
+1411.tif:What is the theme of this picture?overpass
+1411.tif:Does this picture contain an airplane?no
+1411.tif:Does this picture contain trees?no
+1411.tif:How many cars in the picture?four
+1411.tif:What is the location of the cross point in this picture?up and bottom
+1412.tif:What is the theme of this picture?overpass
+1412.tif:Does this picture contain an airplane?no
+1412.tif:Does this picture contain trees?yes
+1412.tif:How many cars in the picture?eight
+1412.tif:What is the location of the cross point in this picture?center
+1413.tif:What is the theme of this picture?overpass
+1413.tif:Does this picture contain an airplane?no
+1413.tif:Does this picture contain trees?yes
+1413.tif:How many cars in the picture?seven
+1413.tif:What is the location of the cross point in this picture?center
+1414.tif:What is the theme of this picture?overpass
+1414.tif:Does this picture contain an airplane?no
+1414.tif:Does this picture contain trees?yes
+1414.tif:How many cars in the picture?five
+1414.tif:What is the location of the cross point in this picture?center
+1415.tif:What is the theme of this picture?overpass
+1415.tif:Does this picture contain an airplane?no
+1415.tif:Does this picture contain trees?yes
+1415.tif:How many cars in the picture?zero
+1415.tif:What is the location of the cross point in this picture?center
+1416.tif:What is the theme of this picture?overpass
+1416.tif:Does this picture contain an airplane?no
+1416.tif:Does this picture contain trees?yes
+1416.tif:How many cars in the picture?six
+1416.tif:What is the location of the cross point in this picture?center
+1417.tif:What is the theme of this picture?overpass
+1417.tif:Does this picture contain an airplane?no
+1417.tif:Does this picture contain trees?yes
+1417.tif:How many cars in the picture?ten
+1417.tif:What is the location of the cross point in this picture?center
+1418.tif:What is the theme of this picture?overpass
+1418.tif:Does this picture contain an airplane?no
+1418.tif:Does this picture contain trees?yes
+1418.tif:How many cars in the picture?one
+1418.tif:What is the location of the cross point in this picture?center
+1419.tif:What is the theme of this picture?overpass
+1419.tif:Does this picture contain an airplane?no
+1419.tif:Does this picture contain trees?yes
+1419.tif:How many cars in the picture?three
+1419.tif:What is the location of the cross point in this picture?center
+142.tif:What is the theme of this picture?airport
+142.tif:Does this picture contain an airplane?yes
+142.tif:Does this picture contain trees?yes
+142.tif:How many  in the picture?one
+142.tif:What is the location of the  in this picture?center
+1420.tif:What is the theme of this picture?overpass
+1420.tif:Does this picture contain an airplane?no
+1420.tif:Does this picture contain trees?yes
+1420.tif:How many cars in the picture?eight
+1420.tif:What is the location of the cross point in this picture?right
+1421.tif:What is the theme of this picture?overpass
+1421.tif:Does this picture contain an airplane?no
+1421.tif:Does this picture contain trees?yes
+1421.tif:How many cars in the picture?eight
+1421.tif:What is the location of the cross point in this picture?center
+1422.tif:What is the theme of this picture?overpass
+1422.tif:Does this picture contain an airplane?no
+1422.tif:Does this picture contain trees?no
+1422.tif:How many cars in the picture?nine
+1422.tif:What is the location of the cross point in this picture?center
+1423.tif:What is the theme of this picture?overpass
+1423.tif:Does this picture contain an airplane?no
+1423.tif:Does this picture contain trees?yes
+1423.tif:How many cars in the picture?eight
+1423.tif:What is the location of the cross point in this picture?center
+1424.tif:What is the theme of this picture?overpass
+1424.tif:Does this picture contain an airplane?no
+1424.tif:Does this picture contain trees?yes
+1424.tif:How many cars in the picture?ten
+1424.tif:What is the location of the cross point in this picture?center
+1425.tif:What is the theme of this picture?overpass
+1425.tif:Does this picture contain an airplane?no
+1425.tif:Does this picture contain trees?yes
+1425.tif:How many cars in the picture?five
+1425.tif:What is the location of the cross point in this picture?center
+1426.tif:What is the theme of this picture?overpass
+1426.tif:Does this picture contain an airplane?no
+1426.tif:Does this picture contain trees?yes
+1426.tif:How many cars in the picture?three
+1426.tif:What is the location of the cross point in this picture?center
+1427.tif:What is the theme of this picture?overpass
+1427.tif:Does this picture contain an airplane?no
+1427.tif:Does this picture contain trees?yes
+1427.tif:How many cars in the picture?two
+1427.tif:What is the location of the cross point in this picture?center
+1428.tif:What is the theme of this picture?overpass
+1428.tif:Does this picture contain an airplane?no
+1428.tif:Does this picture contain trees?yes
+1428.tif:How many cars in the picture?seven
+1428.tif:What is the location of the cross point in this picture?center
+1429.tif:What is the theme of this picture?overpass
+1429.tif:Does this picture contain an airplane?no
+1429.tif:Does this picture contain trees?yes
+1429.tif:How many cars in the picture?zero
+1429.tif:What is the location of the cross point in this picture?center
+143.tif:What is the theme of this picture?airport
+143.tif:Does this picture contain an airplane?yes
+143.tif:Does this picture contain trees?no
+143.tif:How many  in the picture?two
+143.tif:What is the location of the  in this picture?upper left and lower right
+1430.tif:What is the theme of this picture?overpass
+1430.tif:Does this picture contain an airplane?no
+1430.tif:Does this picture contain trees?yes
+1430.tif:How many cars in the picture?two
+1430.tif:What is the location of the cross point in this picture?center
+1431.tif:What is the theme of this picture?overpass
+1431.tif:Does this picture contain an airplane?no
+1431.tif:Does this picture contain trees?yes
+1431.tif:How many cars in the picture?seven
+1431.tif:What is the location of the cross point in this picture?center
+1432.tif:What is the theme of this picture?overpass
+1432.tif:Does this picture contain an airplane?no
+1432.tif:Does this picture contain trees?yes
+1432.tif:How many cars in the picture?four
+1432.tif:What is the location of the cross point in this picture?center
+1433.tif:What is the theme of this picture?overpass
+1433.tif:Does this picture contain an airplane?no
+1433.tif:Does this picture contain trees?yes
+1433.tif:How many cars in the picture?five
+1433.tif:What is the location of the cross point in this picture?center
+1434.tif:What is the theme of this picture?overpass
+1434.tif:Does this picture contain an airplane?no
+1434.tif:Does this picture contain trees?yes
+1434.tif:How many cars in the picture?six
+1434.tif:What is the location of the cross point in this picture?center
+1435.tif:What is the theme of this picture?overpass
+1435.tif:Does this picture contain an airplane?no
+1435.tif:Does this picture contain trees?yes
+1435.tif:How many cars in the picture?five
+1435.tif:What is the location of the cross point in this picture?left and right
+1436.tif:What is the theme of this picture?overpass
+1436.tif:Does this picture contain an airplane?no
+1436.tif:Does this picture contain trees?yes
+1436.tif:How many cars in the picture?ten
+1436.tif:What is the location of the cross point in this picture?left, center and right
+1437.tif:What is the theme of this picture?overpass
+1437.tif:Does this picture contain an airplane?no
+1437.tif:Does this picture contain trees?yes
+1437.tif:How many cars in the picture?nine
+1437.tif:What is the location of the cross point in this picture?up and bottom
+1438.tif:What is the theme of this picture?overpass
+1438.tif:Does this picture contain an airplane?no
+1438.tif:Does this picture contain trees?yes
+1438.tif:How many cars in the picture?six
+1438.tif:What is the location of the cross point in this picture?center
+1439.tif:What is the theme of this picture?overpass
+1439.tif:Does this picture contain an airplane?no
+1439.tif:Does this picture contain trees?yes
+1439.tif:How many cars in the picture?nine
+1439.tif:What is the location of the cross point in this picture?center
+144.tif:What is the theme of this picture?airport
+144.tif:Does this picture contain an airplane?yes
+144.tif:Does this picture contain trees?no
+144.tif:How many  in the picture?two
+144.tif:What is the location of the  in this picture?upper left and lower right
+1440.tif:What is the theme of this picture?overpass
+1440.tif:Does this picture contain an airplane?no
+1440.tif:Does this picture contain trees?yes
+1440.tif:How many cars in the picture?six
+1440.tif:What is the location of the cross point in this picture?center and right
+1441.tif:What is the theme of this picture?overpass
+1441.tif:Does this picture contain an airplane?no
+1441.tif:Does this picture contain trees?yes
+1441.tif:How many cars in the picture?seven
+1441.tif:What is the location of the cross point in this picture?center
+1442.tif:What is the theme of this picture?overpass
+1442.tif:Does this picture contain an airplane?no
+1442.tif:Does this picture contain trees?yes
+1442.tif:How many cars in the picture?two
+1442.tif:What is the location of the cross point in this picture?center
+1443.tif:What is the theme of this picture?overpass
+1443.tif:Does this picture contain an airplane?no
+1443.tif:Does this picture contain trees?yes
+1443.tif:How many cars in the picture?two
+1443.tif:What is the location of the cross point in this picture?center
+1444.tif:What is the theme of this picture?overpass
+1444.tif:Does this picture contain an airplane?no
+1444.tif:Does this picture contain trees?yes
+1444.tif:How many cars in the picture?two
+1444.tif:What is the location of the cross point in this picture?center
+1445.tif:What is the theme of this picture?overpass
+1445.tif:Does this picture contain an airplane?no
+1445.tif:Does this picture contain trees?yes
+1445.tif:How many cars in the picture?three
+1445.tif:What is the location of the cross point in this picture?center
+1446.tif:What is the theme of this picture?overpass
+1446.tif:Does this picture contain an airplane?no
+1446.tif:Does this picture contain trees?no
+1446.tif:How many cars in the picture?eight
+1446.tif:What is the location of the cross point in this picture?center
+1447.tif:What is the theme of this picture?overpass
+1447.tif:Does this picture contain an airplane?no
+1447.tif:Does this picture contain trees?no
+1447.tif:How many cars in the picture?nine
+1447.tif:What is the location of the cross point in this picture?left
+1448.tif:What is the theme of this picture?overpass
+1448.tif:Does this picture contain an airplane?no
+1448.tif:Does this picture contain trees?yes
+1448.tif:How many cars in the picture?one
+1448.tif:What is the location of the cross point in this picture?center
+1449.tif:What is the theme of this picture?overpass
+1449.tif:Does this picture contain an airplane?no
+1449.tif:Does this picture contain trees?yes
+1449.tif:How many cars in the picture?eight
+1449.tif:What is the location of the cross point in this picture?center
+145.tif:What is the theme of this picture?airport
+145.tif:Does this picture contain an airplane?yes
+145.tif:Does this picture contain trees?no
+145.tif:How many  in the picture?one
+145.tif:What is the location of the  in this picture?center
+1450.tif:What is the theme of this picture?overpass
+1450.tif:Does this picture contain an airplane?no
+1450.tif:Does this picture contain trees?yes
+1450.tif:How many cars in the picture?twelve
+1450.tif:What is the location of the cross point in this picture?left and right
+1451.tif:What is the theme of this picture?overpass
+1451.tif:Does this picture contain an airplane?no
+1451.tif:Does this picture contain trees?yes
+1451.tif:How many cars in the picture?thirteen
+1451.tif:What is the location of the cross point in this picture?left and right
+1452.tif:What is the theme of this picture?overpass
+1452.tif:Does this picture contain an airplane?no
+1452.tif:Does this picture contain trees?yes
+1452.tif:How many cars in the picture?eight
+1452.tif:What is the location of the cross point in this picture?center
+1453.tif:What is the theme of this picture?overpass
+1453.tif:Does this picture contain an airplane?no
+1453.tif:Does this picture contain trees?yes
+1453.tif:How many cars in the picture?eleven
+1453.tif:What is the location of the cross point in this picture?center
+1454.tif:What is the theme of this picture?overpass
+1454.tif:Does this picture contain an airplane?no
+1454.tif:Does this picture contain trees?yes
+1454.tif:How many cars in the picture?nine
+1454.tif:What is the location of the cross point in this picture?upper left and lower right
+1455.tif:What is the theme of this picture?overpass
+1455.tif:Does this picture contain an airplane?no
+1455.tif:Does this picture contain trees?yes
+1455.tif:How many cars in the picture?nine
+1455.tif:What is the location of the cross point in this picture?center
+1456.tif:What is the theme of this picture?overpass
+1456.tif:Does this picture contain an airplane?no
+1456.tif:Does this picture contain trees?yes
+1456.tif:How many cars in the picture?eleven
+1456.tif:What is the location of the cross point in this picture?upper left and lower right
+1457.tif:What is the theme of this picture?overpass
+1457.tif:Does this picture contain an airplane?no
+1457.tif:Does this picture contain trees?yes
+1457.tif:How many cars in the picture?four
+1457.tif:What is the location of the cross point in this picture?lower left and upper right
+1458.tif:What is the theme of this picture?overpass
+1458.tif:Does this picture contain an airplane?no
+1458.tif:Does this picture contain trees?yes
+1458.tif:How many cars in the picture?eight
+1458.tif:What is the location of the cross point in this picture?upper left and lower right
+1459.tif:What is the theme of this picture?overpass
+1459.tif:Does this picture contain an airplane?no
+1459.tif:Does this picture contain trees?no
+1459.tif:How many cars in the picture?sixteen
+1459.tif:What is the location of the cross point in this picture?upper left and lower right
+146.tif:What is the theme of this picture?airport
+146.tif:Does this picture contain an airplane?yes
+146.tif:Does this picture contain trees?no
+146.tif:How many  in the picture?four
+146.tif:What is the location of the  in this picture?minor diagonal
+1460.tif:What is the theme of this picture?overpass
+1460.tif:Does this picture contain an airplane?no
+1460.tif:Does this picture contain trees?yes
+1460.tif:How many cars in the picture?six
+1460.tif:What is the location of the cross point in this picture?lower left and lower right
+1461.tif:What is the theme of this picture?overpass
+1461.tif:Does this picture contain an airplane?no
+1461.tif:Does this picture contain trees?yes
+1461.tif:How many cars in the picture?thirteen
+1461.tif:What is the location of the cross point in this picture?center
+1462.tif:What is the theme of this picture?overpass
+1462.tif:Does this picture contain an airplane?no
+1462.tif:Does this picture contain trees?yes
+1462.tif:How many cars in the picture?five
+1462.tif:What is the location of the cross point in this picture?center
+1463.tif:What is the theme of this picture?overpass
+1463.tif:Does this picture contain an airplane?no
+1463.tif:Does this picture contain trees?yes
+1463.tif:How many cars in the picture?ten
+1463.tif:What is the location of the cross point in this picture?left
+1464.tif:What is the theme of this picture?overpass
+1464.tif:Does this picture contain an airplane?no
+1464.tif:Does this picture contain trees?yes
+1464.tif:How many cars in the picture?nine
+1464.tif:What is the location of the cross point in this picture?lower left and upper right
+1465.tif:What is the theme of this picture?overpass
+1465.tif:Does this picture contain an airplane?no
+1465.tif:Does this picture contain trees?yes
+1465.tif:How many cars in the picture?four
+1465.tif:What is the location of the cross point in this picture?center
+1466.tif:What is the theme of this picture?overpass
+1466.tif:Does this picture contain an airplane?no
+1466.tif:Does this picture contain trees?yes
+1466.tif:How many cars in the picture?three
+1466.tif:What is the location of the cross point in this picture?lower right
+1467.tif:What is the theme of this picture?overpass
+1467.tif:Does this picture contain an airplane?no
+1467.tif:Does this picture contain trees?yes
+1467.tif:How many cars in the picture?three
+1467.tif:What is the location of the cross point in this picture?center
+1468.tif:What is the theme of this picture?overpass
+1468.tif:Does this picture contain an airplane?no
+1468.tif:Does this picture contain trees?yes
+1468.tif:How many cars in the picture?one
+1468.tif:What is the location of the cross point in this picture?center
+1469.tif:What is the theme of this picture?overpass
+1469.tif:Does this picture contain an airplane?no
+1469.tif:Does this picture contain trees?no
+1469.tif:How many cars in the picture?zero
+1469.tif:What is the location of the cross point in this picture?center
+147.tif:What is the theme of this picture?airport
+147.tif:Does this picture contain an airplane?yes
+147.tif:Does this picture contain trees?no
+147.tif:How many  in the picture?three
+147.tif:What is the location of the  in this picture?lower left and upper right
+1470.tif:What is the theme of this picture?overpass
+1470.tif:Does this picture contain an airplane?no
+1470.tif:Does this picture contain trees?no
+1470.tif:How many cars in the picture?one
+1470.tif:What is the location of the cross point in this picture?center
+1471.tif:What is the theme of this picture?overpass
+1471.tif:Does this picture contain an airplane?no
+1471.tif:Does this picture contain trees?yes
+1471.tif:How many cars in the picture?three
+1471.tif:What is the location of the cross point in this picture?center
+1472.tif:What is the theme of this picture?overpass
+1472.tif:Does this picture contain an airplane?no
+1472.tif:Does this picture contain trees?yes
+1472.tif:How many cars in the picture?two
+1472.tif:What is the location of the cross point in this picture?center
+1473.tif:What is the theme of this picture?overpass
+1473.tif:Does this picture contain an airplane?no
+1473.tif:Does this picture contain trees?yes
+1473.tif:How many cars in the picture?eight
+1473.tif:What is the location of the cross point in this picture?center
+1474.tif:What is the theme of this picture?overpass
+1474.tif:Does this picture contain an airplane?no
+1474.tif:Does this picture contain trees?yes
+1474.tif:How many cars in the picture?fifteen
+1474.tif:What is the location of the cross point in this picture?center
+1475.tif:What is the theme of this picture?overpass
+1475.tif:Does this picture contain an airplane?no
+1475.tif:Does this picture contain trees?yes
+1475.tif:How many cars in the picture?ten
+1475.tif:What is the location of the cross point in this picture?center
+1476.tif:What is the theme of this picture?overpass
+1476.tif:Does this picture contain an airplane?no
+1476.tif:Does this picture contain trees?yes
+1476.tif:How many cars in the picture?eight
+1476.tif:What is the location of the cross point in this picture?center
+1477.tif:What is the theme of this picture?overpass
+1477.tif:Does this picture contain an airplane?no
+1477.tif:Does this picture contain trees?yes
+1477.tif:How many cars in the picture?three
+1477.tif:What is the location of the cross point in this picture?center
+1478.tif:What is the theme of this picture?overpass
+1478.tif:Does this picture contain an airplane?no
+1478.tif:Does this picture contain trees?yes
+1478.tif:How many cars in the picture?five
+1478.tif:What is the location of the cross point in this picture?center
+1479.tif:What is the theme of this picture?overpass
+1479.tif:Does this picture contain an airplane?no
+1479.tif:Does this picture contain trees?yes
+1479.tif:How many cars in the picture?zero
+1479.tif:What is the location of the cross point in this picture?center
+148.tif:What is the theme of this picture?airport
+148.tif:Does this picture contain an airplane?yes
+148.tif:Does this picture contain trees?no
+148.tif:How many  in the picture?one
+148.tif:What is the location of the  in this picture?center
+1480.tif:What is the theme of this picture?overpass
+1480.tif:Does this picture contain an airplane?no
+1480.tif:Does this picture contain trees?yes
+1480.tif:How many cars in the picture?two
+1480.tif:What is the location of the cross point in this picture?center
+1481.tif:What is the theme of this picture?overpass
+1481.tif:Does this picture contain an airplane?no
+1481.tif:Does this picture contain trees?yes
+1481.tif:How many cars in the picture?five
+1481.tif:What is the location of the cross point in this picture?center
+1482.tif:What is the theme of this picture?overpass
+1482.tif:Does this picture contain an airplane?no
+1482.tif:Does this picture contain trees?yes
+1482.tif:How many cars in the picture?zero
+1482.tif:What is the location of the cross point in this picture?center
+1483.tif:What is the theme of this picture?overpass
+1483.tif:Does this picture contain an airplane?no
+1483.tif:Does this picture contain trees?yes
+1483.tif:How many cars in the picture?zero
+1483.tif:What is the location of the cross point in this picture?center
+1484.tif:What is the theme of this picture?overpass
+1484.tif:Does this picture contain an airplane?no
+1484.tif:Does this picture contain trees?yes
+1484.tif:How many cars in the picture?two
+1484.tif:What is the location of the cross point in this picture?center
+1485.tif:What is the theme of this picture?overpass
+1485.tif:Does this picture contain an airplane?no
+1485.tif:Does this picture contain trees?yes
+1485.tif:How many cars in the picture?zero
+1485.tif:What is the location of the cross point in this picture?center
+1486.tif:What is the theme of this picture?overpass
+1486.tif:Does this picture contain an airplane?no
+1486.tif:Does this picture contain trees?yes
+1486.tif:How many cars in the picture?one
+1486.tif:What is the location of the cross point in this picture?center
+1487.tif:What is the theme of this picture?overpass
+1487.tif:Does this picture contain an airplane?no
+1487.tif:Does this picture contain trees?yes
+1487.tif:How many cars in the picture?one
+1487.tif:What is the location of the cross point in this picture?center
+1488.tif:What is the theme of this picture?overpass
+1488.tif:Does this picture contain an airplane?no
+1488.tif:Does this picture contain trees?yes
+1488.tif:How many cars in the picture?three
+1488.tif:What is the location of the cross point in this picture?center
+1489.tif:What is the theme of this picture?overpass
+1489.tif:Does this picture contain an airplane?no
+1489.tif:Does this picture contain trees?yes
+1489.tif:How many cars in the picture?two
+1489.tif:What is the location of the cross point in this picture?center
+149.tif:What is the theme of this picture?airport
+149.tif:Does this picture contain an airplane?yes
+149.tif:Does this picture contain trees?no
+149.tif:How many  in the picture?two
+149.tif:What is the location of the  in this picture?left and right
+1490.tif:What is the theme of this picture?overpass
+1490.tif:Does this picture contain an airplane?no
+1490.tif:Does this picture contain trees?yes
+1490.tif:How many cars in the picture?one
+1490.tif:What is the location of the cross point in this picture?center
+1491.tif:What is the theme of this picture?overpass
+1491.tif:Does this picture contain an airplane?no
+1491.tif:Does this picture contain trees?yes
+1491.tif:How many cars in the picture?four
+1491.tif:What is the location of the cross point in this picture?up and bottom
+1492.tif:What is the theme of this picture?overpass
+1492.tif:Does this picture contain an airplane?no
+1492.tif:Does this picture contain trees?yes
+1492.tif:How many cars in the picture?thirteen
+1492.tif:What is the location of the cross point in this picture?center
+1493.tif:What is the theme of this picture?overpass
+1493.tif:Does this picture contain an airplane?no
+1493.tif:Does this picture contain trees?yes
+1493.tif:How many cars in the picture?eight
+1493.tif:What is the location of the cross point in this picture?center
+1494.tif:What is the theme of this picture?overpass
+1494.tif:Does this picture contain an airplane?no
+1494.tif:Does this picture contain trees?no
+1494.tif:How many cars in the picture?eight
+1494.tif:What is the location of the cross point in this picture?center
+1495.tif:What is the theme of this picture?overpass
+1495.tif:Does this picture contain an airplane?no
+1495.tif:Does this picture contain trees?yes
+1495.tif:How many cars in the picture?three
+1495.tif:What is the location of the cross point in this picture?center
+1496.tif:What is the theme of this picture?overpass
+1496.tif:Does this picture contain an airplane?no
+1496.tif:Does this picture contain trees?yes
+1496.tif:How many cars in the picture?two
+1496.tif:What is the location of the cross point in this picture?center and upper right
+1497.tif:What is the theme of this picture?overpass
+1497.tif:Does this picture contain an airplane?no
+1497.tif:Does this picture contain trees?yes
+1497.tif:How many cars in the picture?three
+1497.tif:What is the location of the cross point in this picture?center
+1498.tif:What is the theme of this picture?overpass
+1498.tif:Does this picture contain an airplane?no
+1498.tif:Does this picture contain trees?yes
+1498.tif:How many cars in the picture?fourteen
+1498.tif:What is the location of the cross point in this picture?center
+1499.tif:What is the theme of this picture?overpass
+1499.tif:Does this picture contain an airplane?no
+1499.tif:Does this picture contain trees?no
+1499.tif:How many cars in the picture?thirteen
+1499.tif:What is the location of the cross point in this picture?center
+15.tif:What is the theme of this picture?farmland
+15.tif:Does this picture contain an airplane?no
+15.tif:Does this picture contain trees?no
+15.tif:How many  in the picture?zero
+15.tif:What is the location of the  in this picture?i cannot see it
+150.tif:What is the theme of this picture?airport
+150.tif:Does this picture contain an airplane?yes
+150.tif:Does this picture contain trees?no
+150.tif:How many  in the picture?one
+150.tif:What is the location of the  in this picture?center
+1500.tif:What is the theme of this picture?overpass
+1500.tif:Does this picture contain an airplane?no
+1500.tif:Does this picture contain trees?no
+1500.tif:How many cars in the picture?sixteen
+1500.tif:What is the location of the cross point in this picture?center

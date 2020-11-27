@@ -17,7 +17,7 @@ be found in txt files in this repository. Images of the datasets can be download
 each dataset.
 
 ## Deatails
-There are ***37264 images*** and 111134 image-question-answer triplets in the dataset. Detaled information is summarized in the table below.  
+There are ***37264 images*** and ***111134 image-question-answer triplets*** in the dataset. Detaled information is summarized in the table below.  
 
 | Item                                 | Amount |
 |--------------------------------------|:------:|

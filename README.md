@@ -6,11 +6,17 @@ If this data set is used in your work, please cite our paper.
 
 @article{9444570,
 author = {Zheng, Xiangtao and Wang, Binqiang and Du, Xingqian and Lu, Xiaoqiang},
+
 doi = {10.1109/TGRS.2021.3079918},
+
 issn = {0196-2892},
+
 journal = {IEEE Transactions on Geoscience and Remote Sensing},
+
 title = {{Mutual Attention Inception Network for Remote Sensing Visual Question Answering}},
+
 year = {2021}
+
 }
 
 ## Overview

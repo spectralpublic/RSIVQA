@@ -41,6 +41,7 @@ There are ***37264 images*** and ***111134 image-question-answer triplets*** in 
 | The number of others VQA triplets    |  14193 |
 
 A small part of RSIVQA is annotated by human. Others are automatically generated using existing scene classification datasets and object detection datasets. For more detailed information of the generation method, please refer to the paper.  
+Note that 559 triplets are added in current version, which makes up to 111693 vqa triplets in total.
 
 ## Files
 
@@ -53,4 +54,3 @@ which means the question for the image "1.tif" is "what is the theme of this pic
 Image-question-answer triplets for each origin scene classification or object detection dataset are saved in corresponding folders.
 
 --------------------------------------
-To be finished....
